@@ -1,15 +1,23 @@
 {
-  "latestVersion": "1.1",
-  "latestVersionCode": 355,
+  "latestVersion": "10.part3",
+  "latestVersionCode": 21,
   "disableRequest": {
-    "below": 10,
-    "on": "40 20 353"
+    "below": 21,
+    "on": "20"
   },
-  "url": "https://github.com/zixpo/candybar",
+  "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pixp.iconpack",
   "releaseNotes": [
-    "This is the text which will be shown on Update",
-    "This is Awesome",
-    "Please Enjoy My Friend",
-    "<b>This</b> is Just for <i>Testing</i>"
+"Public release 10.part3"
+"New of many icons options."
+"Added 100+ adaptive icon."
+"Optimized app."
+"Requests for icons enabled."
+"Added Analog Clock Widget."
+"Added new 14 wallpapers."
+"New updated dashboard. New material UI."
+"Support Adaptive icons."
+"Added Lawnchair, POCO, Posidon, Pixel Launchers. Minor Fixes to Old Launchers."
+"Added Support for Desktop Shortcuts."
+"Now you can set Your Own Email Subject for Icon Requests."
   ]
 }
