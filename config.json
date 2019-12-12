@@ -1,9 +1,9 @@
 {
-  "latestVersion": "10.part3",
-  "latestVersionCode": 21,
+  "latestVersion": "10.part4",
+  "latestVersionCode": 22,
   "disableRequest": {
-    "below": 21,
-    "on": "19 20"
+    "below": 22,
+    "on": "19 20 21"
   },
   "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pixp.iconpack",
   "releaseNotes": [
