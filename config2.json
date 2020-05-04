@@ -1,12 +1,12 @@
 {
-  "latestVersion": "3.beta",
-  "latestVersionCode": 3,
+  "latestVersion": "2.release",
+  "latestVersionCode": 6,
   "disableRequest": {
-    "below": 3,
-    "on": "1 2"
+    "below": 6,
+    "on": "1 2 3 4 5"
   },
   "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.iconpack",
   "releaseNotes": [
-    "Public Beta 3"
+    "2 public release"
   ]
 }
