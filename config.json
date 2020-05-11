@@ -1,12 +1,12 @@
 {
-  "latestVersion": "10.part4",
-  "latestVersionCode": 22,
+  "latestVersion": "11.part1",
+  "latestVersionCode": 23,
   "disableRequest": {
-    "below": 22,
-    "on": "19 20 21"
+    "below": 23,
+    "on": "19 20 21 22"
   },
   "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pixp.iconpack",
   "releaseNotes": [
-    "Wait.... Soon update."
+    "Wait.... Soon update with fix."
   ]
 }
