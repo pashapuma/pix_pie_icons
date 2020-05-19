@@ -1,1 +1,12 @@
-s
+  {
+  "latestVersion": "1.release",
+  "latestVersionCode": 4,
+  "disableRequest": {
+    "below": 4,
+    "on": "1 2 3"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color",
+  "releaseNotes": [
+    "Wait Stable release."
+  ]
+}
