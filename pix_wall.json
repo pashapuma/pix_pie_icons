@@ -4,7 +4,7 @@
 		"author": "Pashapuma",
 		"url": "https://drive.google.com/uc?id=11YycxgSAG60t5z_pi8GZCWC_jkC4hrOs",
 		"thumbnail": "https://drive.google.com/uc?id=11YycxgSAG60t5z_pi8GZCWC_jkC4hrOs",
-		"collections": "GRADIENT|ABSTRACT",
+		"collections": "PIXEL|Material",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
@@ -13,7 +13,34 @@
 		"author": "Pashapuma",
 		"url": "https://drive.google.com/uc?id=1l2MJWzLtmCIy8gMjpauVQOVJ6Dx9CHds",
 		"thumbnail": "https://drive.google.com/uc?id=1l2MJWzLtmCIy8gMjpauVQOVJ6Dx9CHds",
-		"collections": "Landscapes,Art,Material Design",
+		"collections": "PIXEL|Material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "thri",
+		"author": "Pashapuma",
+		"url": "https://drive.google.com/uc?id=1MpQaPl6Dxsy4PYzDoChQQ7cPQnFpKWCf",
+		"thumbnail": "https://drive.google.com/uc?id=1MpQaPl6Dxsy4PYzDoChQQ7cPQnFpKWCf",
+		"collections": "PIXEL|Material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	}
+	{
+		"name": "fohr",
+		"author": "Pashapuma",
+		"url": "https://drive.google.com/uc?id=1AUrz9_uVvAogNFQHX9VrJTDYiEeNnUTo",
+		"thumbnail": "https://drive.google.com/uc?id=1AUrz9_uVvAogNFQHX9VrJTDYiEeNnUTo",
+		"collections": "PIXEL|Material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "five",
+		"author": "Pashapuma",
+		"url": "https://drive.google.com/uc?id=14XbY3XSpJoqG2sGHLDXp_m2nPaxNc5Sx",
+		"thumbnail": "https://drive.google.com/uc?id=14XbY3XSpJoqG2sGHLDXp_m2nPaxNc5Sx",
+		"collections": "Cloud|Material",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	}
