@@ -1,46 +1,64 @@
 [
 	{
-		"name": "one",
+		"name": "pixel 1",
 		"author": "Pashapuma",
 		"url": "https://drive.google.com/uc?id=11YycxgSAG60t5z_pi8GZCWC_jkC4hrOs",
 		"thumbnail": "https://drive.google.com/uc?id=11YycxgSAG60t5z_pi8GZCWC_jkC4hrOs",
-		"collections": "Landscapes,Art,Material Design",
+		"collections": "Pixel",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
-		"name": "two",
+		"name": "pixel 2",
 		"author": "Pashapuma",
 		"url": "https://drive.google.com/uc?id=1l2MJWzLtmCIy8gMjpauVQOVJ6Dx9CHds",
 		"thumbnail": "https://drive.google.com/uc?id=1l2MJWzLtmCIy8gMjpauVQOVJ6Dx9CHds",
-		"collections": "Landscapes,Art,Material Design",
+		"collections": "Pixel",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
-		"name": "thri",
+		"name": "pixel 3",
 		"author": "Pashapuma",
 		"url": "https://drive.google.com/uc?id=1MpQaPl6Dxsy4PYzDoChQQ7cPQnFpKWCf",
 		"thumbnail": "https://drive.google.com/uc?id=1MpQaPl6Dxsy4PYzDoChQQ7cPQnFpKWCf",
-		"collections": "Landscapes,Art,Material Design",
+		"collections": "Pixel",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
-		"name": "fohr",
+		"name": "pixel 4",
 		"author": "Pashapuma",
 		"url": "https://drive.google.com/uc?id=1AUrz9_uVvAogNFQHX9VrJTDYiEeNnUTo",
 		"thumbnail": "https://drive.google.com/uc?id=1AUrz9_uVvAogNFQHX9VrJTDYiEeNnUTo",
-		"collections": "Landscapes,Art,Material Design",
+		"collections": "Pixel",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
-		"name": "five",
+		"name": "cloud 1",
 		"author": "Pashapuma",
 		"url": "https://drive.google.com/uc?id=14XbY3XSpJoqG2sGHLDXp_m2nPaxNc5Sx",
 		"thumbnail": "https://drive.google.com/uc?id=14XbY3XSpJoqG2sGHLDXp_m2nPaxNc5Sx",
-		"collections": "Landscapes,Art,Material Design",
+		"collections": "Cloud",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "cloud 2",
+		"author": "Pashapuma",
+		"url": "https://drive.google.com/uc?id=14VUvJqzKY_QScnpag_oCJhsy6KmmlKsl",
+		"thumbnail": "https://drive.google.com/uc?id=14VUvJqzKY_QScnpag_oCJhsy6KmmlKsl",
+		"collections": "Cloud",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "pixel 4a",
+		"author": "Pashapuma",
+		"url": "https://drive.google.com/uc?id=17BEHHFZCcBgDbKyAZLdcV4GR-5wl7WBH",
+		"thumbnail": "https://drive.google.com/uc?id=17BEHHFZCcBgDbKyAZLdcV4GR-5wl7WBH",
+		"collections": "Pixel 4a",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	}
