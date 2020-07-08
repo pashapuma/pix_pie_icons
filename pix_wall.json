@@ -1,5 +1,41 @@
 [
 	{
+		"name": "pixel 1",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/wall_pixMaterial.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/wall_pixMaterial_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "pixel 2",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/wall_pixMaterial_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/wall_pixMaterial_dark_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "pixel 3",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/wall_pixMaterial_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/wall_pixMaterial_2_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "pixel 4",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/wall_pixMaterial_2_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/wall_pixMaterial_2_dark_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "pixel 5",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pix_material_r3_light.png",
@@ -14,42 +50,6 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pix_material_r3_dark.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pix_material_r3_dark_thumbnail.png",
 		"collections": "Pixel,New",
-		"downloadable": true,
-		"copyright": "PashaPuma Design"
-	},
-	{
-		"name": "pixel 1",
-		"author": "Pashapuma",
-		"url": "https://drive.google.com/uc?id=11YycxgSAG60t5z_pi8GZCWC_jkC4hrOs",
-		"thumbnail": "https://drive.google.com/uc?id=11YycxgSAG60t5z_pi8GZCWC_jkC4hrOs",
-		"collections": "Pixel",
-		"downloadable": true,
-		"copyright": "PashaPuma Design"
-	},
-	{
-		"name": "pixel 2",
-		"author": "Pashapuma",
-		"url": "https://drive.google.com/uc?id=1l2MJWzLtmCIy8gMjpauVQOVJ6Dx9CHds",
-		"thumbnail": "https://drive.google.com/uc?id=1l2MJWzLtmCIy8gMjpauVQOVJ6Dx9CHds",
-		"collections": "Pixel",
-		"downloadable": true,
-		"copyright": "PashaPuma Design"
-	},
-	{
-		"name": "pixel 3",
-		"author": "Pashapuma",
-		"url": "https://drive.google.com/uc?id=1MpQaPl6Dxsy4PYzDoChQQ7cPQnFpKWCf",
-		"thumbnail": "https://drive.google.com/uc?id=1MpQaPl6Dxsy4PYzDoChQQ7cPQnFpKWCf",
-		"collections": "Pixel",
-		"downloadable": true,
-		"copyright": "PashaPuma Design"
-	},
-	{
-		"name": "pixel 4",
-		"author": "Pashapuma",
-		"url": "https://drive.google.com/uc?id=1AUrz9_uVvAogNFQHX9VrJTDYiEeNnUTo",
-		"thumbnail": "https://drive.google.com/uc?id=1AUrz9_uVvAogNFQHX9VrJTDYiEeNnUTo",
-		"collections": "Pixel",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
