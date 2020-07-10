@@ -40,7 +40,7 @@
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pix_material_r3_light.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pix_material_r3_light_thumbnail.png",
-		"collections": "New",
+		"collections": "Pixel",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
@@ -49,15 +49,15 @@
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pix_material_r3_dark.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pix_material_r3_dark_thumbnail.png",
-		"collections": "New",
+		"collections": "Pixel",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
 		"name": "cloud 1",
 		"author": "Pashapuma",
-		"url": "https://drive.google.com/uc?id=14XbY3XSpJoqG2sGHLDXp_m2nPaxNc5Sx",
-		"thumbnail": "https://drive.google.com/uc?id=14XbY3XSpJoqG2sGHLDXp_m2nPaxNc5Sx",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/cloud/cloud_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/cloud/thumbnail/cloud_1_thumbnail.png",
 		"collections": "Cloud",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
@@ -65,8 +65,8 @@
 	{
 		"name": "cloud 2",
 		"author": "Pashapuma",
-		"url": "https://drive.google.com/uc?id=14VUvJqzKY_QScnpag_oCJhsy6KmmlKsl",
-		"thumbnail": "https://drive.google.com/uc?id=14VUvJqzKY_QScnpag_oCJhsy6KmmlKsl",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/cloud/cloud_1_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/cloud/thumbnail/cloud_1_dark_thumbnail.png",
 		"collections": "Cloud",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
@@ -74,8 +74,8 @@
 	{
 		"name": "cloud 3",
 		"author": "Pashapuma",
-		"url": "https://drive.google.com/uc?id=14hFanH_HmT_HMGkWssUk6cAqeDTfi1fW",
-		"thumbnail": "https://drive.google.com/uc?id=14hFanH_HmT_HMGkWssUk6cAqeDTfi1fW",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/cloud/cloud_2.png",
+		"thumbnail": "https://github.com/pashapuma/Wallpapers_app/blob/master/cloud/thumbnail/cloud_2_thumbnail.png",
 		"collections": "Cloud",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
@@ -83,8 +83,80 @@
 	{
 		"name": "cloud 4",
 		"author": "Pashapuma",
-		"url": "https://drive.google.com/uc?id=14_RWrhv_mb5zci9jeIyHiAZFd0FmmI4i",
-		"thumbnail": "https://drive.google.com/uc?id=14_RWrhv_mb5zci9jeIyHiAZFd0FmmI4i",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/cloud/cloud_2_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/cloud/thumbnail/cloud_2_dark_thumbnail.png",
+		"collections": "Cloud",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "cloud 5",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/cloud/cloud_3.png",
+		"thumbnail": "https://github.com/pashapuma/Wallpapers_app/blob/master/cloud/thumbnail/cloud_3_thumbnail.png",
+		"collections": "Cloud",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "cloud 6",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/cloud/cloud_4.png",
+		"thumbnail": "https://github.com/pashapuma/Wallpapers_app/blob/master/cloud/thumbnail/cloud_4_thumbnail.png",
+		"collections": "Cloud",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "cloud 7",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/cloud/cloud_5.png",
+		"thumbnail": "https://github.com/pashapuma/Wallpapers_app/blob/master/cloud/thumbnail/cloud_5_thumbnail.png",
+		"collections": "Cloud",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "cloud 8",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/cloud/cloud_6.png",
+		"thumbnail": "https://github.com/pashapuma/Wallpapers_app/blob/master/cloud/thumbnail/cloud_6_thumbnail.png",
+		"collections": "Cloud",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "cloud 9",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/cloud/cloud_7.png",
+		"thumbnail": "https://github.com/pashapuma/Wallpapers_app/blob/master/cloud/thumbnail/cloud_7_thumbnail.png",
+		"collections": "Cloud",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "cloud 10",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/cloud/cloud_8.png",
+		"thumbnail": "https://github.com/pashapuma/Wallpapers_app/blob/master/cloud/thumbnail/cloud_8_thumbnail.png",
+		"collections": "Cloud",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "cloud 9",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/cloud/cloud_9.png",
+		"thumbnail": "https://github.com/pashapuma/Wallpapers_app/blob/master/cloud/thumbnail/cloud_9_thumbnail.png",
+		"collections": "Cloud",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "cloud 10",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/cloud/cloud_10.png",
+		"thumbnail": "https://github.com/pashapuma/Wallpapers_app/blob/master/cloud/thumbnail/cloud_10_thumbnail.png",
 		"collections": "Cloud",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
