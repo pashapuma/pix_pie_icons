@@ -164,36 +164,108 @@
 	{
 		"name": "pixel 4a",
 		"author": "Pashapuma",
-		"url": "https://drive.google.com/uc?id=17BEHHFZCcBgDbKyAZLdcV4GR-5wl7WBH",
-		"thumbnail": "https://drive.google.com/uc?id=17BEHHFZCcBgDbKyAZLdcV4GR-5wl7WBH",
-		"collections": "Pixel 4a",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/pixel4a_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/thumbnail/pixel4a_1_thumbnail.png",
+		"collections": "Pixel4a",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
-		"name": "pixel 4a white",
+		"name": "pixel 4a 2",
 		"author": "Pashapuma",
-		"url": "https://drive.google.com/uc?id=17DT1zqamN-XRRzcOO90IiTEFkL6_UpgJ",
-		"thumbnail": "https://drive.google.com/uc?id=17DT1zqamN-XRRzcOO90IiTEFkL6_UpgJ",
-		"collections": "Pixel 4a",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/pixel4a_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/thumbnail/pixel4a_2_thumbnail.png",
+		"collections": "Pixel4a",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
-		"name": "pixel 4a dark",
+		"name": "pixel 4a 3",
 		"author": "Pashapuma",
-		"url": "https://drive.google.com/uc?id=17IVRWStOHa5PXIvQrCcLrGB1Dzip1Erp",
-		"thumbnail": "https://drive.google.com/uc?id=17IVRWStOHa5PXIvQrCcLrGB1Dzip1Erp",
-		"collections": "Pixel 4a",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/pixel4a_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/thumbnail/pixel4a_3_thumbnail.png",
+		"collections": "Pixel4a",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
-		"name": "pixel 4a black",
+		"name": "pixel 4a 4",
 		"author": "Pashapuma",
-		"url": "https://drive.google.com/uc?id=17ZWSqmOPNCi7oEaQ7Eild6-ev2ia1pFe",
-		"thumbnail": "https://drive.google.com/uc?id=17ZWSqmOPNCi7oEaQ7Eild6-ev2ia1pFe",
-		"collections": "Pixel 4a",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/pixel4a_4.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/thumbnail/pixel4a_4_thumbnail.png",
+		"collections": "Pixel4a",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "pixel 4a 5",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/pixel4a_5.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/thumbnail/pixel4a_5_thumbnail.png",
+		"collections": "Pixel4a",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "pixel 4a 6",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/pixel4a_6.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/thumbnail/pixel4a_6_thumbnail.png",
+		"collections": "Pixel4a",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "pixel 4a 7",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/pixel4a_7.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/thumbnail/pixel4a_7_thumbnail.png",
+		"collections": "Pixel4a",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "pixel 4a bubbles",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a_bubbles/pixel4a_prew_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a_bubbles/thumbnail/pixel4a_prew_1_thumbnail.png",
+		"collections": "Pixel4aBubbles",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "pixel 4a bubbles 2",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a_bubbles/pixel4a_prew_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a_bubbles/thumbnail/pixel4a_prew_2_thumbnail.png",
+		"collections": "Pixel4aBubbles",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "pixel 4a bubbles 3",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a_bubbles/pixel4a_outline.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a_bubbles/thumbnail/pixel4a_outline_thumbnail.png",
+		"collections": "Pixel4aBubbles",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "pixel 4a bubbles 4",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a_bubbles/pixel4a_outline_amoled.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a_bubbles/thumbnail/pixel4a_outline_amoled_thumbnail.png",
+		"collections": "Pixel4aBubbles",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "pixel 4a bubbles 5",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a_bubbles/pixel4a_outline_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a_bubbles/thumbnail/pixel4a_outline_light_thumbnail.png",
+		"collections": "Pixel4aBubbles",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
