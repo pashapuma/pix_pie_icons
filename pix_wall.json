@@ -54,6 +54,78 @@
 		"copyright": "PashaPuma Design"
 	},
 	{
+		"name": "Android 1",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/android_11.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/thumbnail/android_11_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android 2",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/android_11_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/thumbnail/android_11_2_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android 3",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/android.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/thumbnail/android_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android 4",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/android_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/thumbnail/android_2_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android 5",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/android_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/thumbnail/android_3_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android 6",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/android_4.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/thumbnail/android_4_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android 7",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/android_5.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/thumbnail/android_5_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android 8",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/android_6.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/thumbnail/android_6_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "cloud 1",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/cloud/cloud_1.png",
@@ -166,7 +238,7 @@
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/pixel4a_1.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/thumbnail/pixel4a_1_thumbnail.png",
-		"collections": "Pixel4a",
+		"collections": "Pix4a",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
@@ -175,7 +247,7 @@
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/pixel4a_2.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/thumbnail/pixel4a_2_thumbnail.png",
-		"collections": "Pixel4a",
+		"collections": "Pix4a",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
@@ -184,7 +256,7 @@
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/pixel4a_3.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/thumbnail/pixel4a_3_thumbnail.png",
-		"collections": "Pixel4a",
+		"collections": "Pix4a",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
@@ -193,7 +265,7 @@
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/pixel4a_4.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/thumbnail/pixel4a_4_thumbnail.png",
-		"collections": "Pixel4a",
+		"collections": "Pix4a",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
@@ -202,7 +274,7 @@
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/pixel4a_5.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/thumbnail/pixel4a_5_thumbnail.png",
-		"collections": "Pixel4a",
+		"collections": "Pix4a",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
@@ -211,7 +283,7 @@
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/pixel4a_6.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/thumbnail/pixel4a_6_thumbnail.png",
-		"collections": "Pixel4a",
+		"collections": "Pix4a",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
@@ -220,7 +292,7 @@
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/pixel4a_7.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel4a/thumbnail/pixel4a_7_thumbnail.png",
-		"collections": "Pixel4a",
+		"collections": "Pix4a",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
