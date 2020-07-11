@@ -396,6 +396,24 @@
 		"copyright": "PashaPuma Design"
 	},
 	{
+		"name": "material 7",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/pixMaterial_7.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/thumbnail/pixMaterial_7_thumbnail.png",
+		"collections": "Material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "material 8",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/pixMaterial_8.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/thumbnail/pixMaterial_8_thumbnail.png",
+		"collections": "Material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "colors 1",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/colors_1.png",
