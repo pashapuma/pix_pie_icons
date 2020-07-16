@@ -216,6 +216,15 @@
 		"copyright": "PashaPuma Design"
 	},
 	{
+		"name": "nature 7",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Nature/Pix_nature_7.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Nature/thumbnail/Pix_nature_7_thumbnail.png",
+		"collections": "Nature",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "cloud 1",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/cloud/cloud_1.png",
@@ -504,6 +513,24 @@
 		"copyright": "PashaPuma Design"
 	},
 	{
+		"name": "material 9",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/pixMaterial_9.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/thumbnail/pixMaterial_9_thumbnail.png",
+		"collections": "Material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "material 10",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/pixMaterial_10.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/thumbnail/pixMaterial_10_thumbnail.png",
+		"collections": "Material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "colors 1",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/colors_1.png",
@@ -562,6 +589,60 @@
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/colors_7.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/colors_7_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "colors 8",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/colors_8.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/colors_8_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "colors 9",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/colors_9.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/colors_9_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "colors 10",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/colors_10.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/colors_10_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "colors 11",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/colors_11.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/colors_11_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "colors 12",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/colors_12.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/colors_12_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "colors 13",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/colors_13.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/colors_13_thumbnail.png",
 		"collections": "colors",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
