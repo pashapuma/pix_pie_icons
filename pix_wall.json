@@ -2,15 +2,6 @@
 	{
 		"name": "space 9",
 		"author": "Pashapuma",
-		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/space/space_1.png",
-		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/space/thumbnail/space_1_thumbnail.png",
-		"collections": "Space",
-		"downloadable": true,
-		"copyright": "PashaPuma Design"
-	},
-	{
-		"name": "space 10",
-		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/space/space_9.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/space/thumbnail/space_9_thumbnail.png",
 		"collections": "Space",
@@ -18,10 +9,19 @@
 		"copyright": "PashaPuma Design"
 	},
 	{
-		"name": "space 1",
+		"name": "space 10",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/space/space_10.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/space/thumbnail/space_10_thumbnail.png",
+		"collections": "Space",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "space 1",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/space/space_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/space/thumbnail/space_1_thumbnail.png",
 		"collections": "Space",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
