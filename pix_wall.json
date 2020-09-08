@@ -1,5 +1,59 @@
 [
 	{
+		"name": "Android 9",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/android_11_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/thumbnail/android_11_3_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android 10",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/android_11_4.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/thumbnail/android_11_4_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},	
+	{
+		"name": "Android 11",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/android_11_5.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/thumbnail/android_11_5_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android 12",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/android_11_6.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/thumbnail/android_11_6_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},	
+	{
+		"name": "Android 13",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/android_11_7.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/thumbnail/android_11_7_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android 14",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/android_11_8.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/thumbnail/android_11_8_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "material 11",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/pixMaterial_11.png",
