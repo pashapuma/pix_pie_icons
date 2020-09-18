@@ -1,5 +1,31 @@
 [
-	
+	{
+		"name": "pixel 5 18:9 1",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/p5_18_9_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/p5_1_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "pixel 5 18:9 2",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/p5_18_9_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/p5_2_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "pixel 5 18:9 3",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/p5_18_9_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/p5_3_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
 	{
 		"name": "pixel 5 1",
 		"author": "Pashapuma",
