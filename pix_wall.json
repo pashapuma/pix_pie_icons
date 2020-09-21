@@ -1,5 +1,23 @@
 [
 	{
+		"name": "Autump Leaves",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Nature/autump_leaves.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Nature/thumbnail/autump_leaves_thumbnail.png",
+		"collections": "Nature",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Autump Leaves Dark",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Nature/autump_leaves_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Nature/thumbnail/autump_leaves_dark_thumbnail.png",
+		"collections": "Nature",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "pixel 5 18:9 1",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/p5_18_9_1.png",
