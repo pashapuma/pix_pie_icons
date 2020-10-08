@@ -1,5 +1,32 @@
 [
 	{
+		"name": "pixel 5 balance",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pix5_new.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pix5_new_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "pixel 5 pulley green",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pulley_green.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pulley_green_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+		{
+		"name": "pixel 5 pulley red",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pulley_red.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pulley_red_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "pixel 5 pulley round",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pulley_roud_v1.png",
