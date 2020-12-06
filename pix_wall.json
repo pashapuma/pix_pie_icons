@@ -1,5 +1,23 @@
 [
 	{
+		"name": "Mandalorian Outline dark",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/StarWars/mandalorian_outline.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/StarWars/thumbnail/mandalorian_outline_thumbnail.png",
+		"collections": "StarWars",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Mandalorian Outline light",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/StarWars/mandalorian_outline_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/StarWars/thumbnail/mandalorian_outline_2_thumbnail.png",
+		"collections": "StarWars",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "colors 14",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/colors_14.png",
