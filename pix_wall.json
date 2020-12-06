@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Grogu",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/StarWars/Grogu.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/StarWars/thumbnail/Grogu_thumbnail.png",
+		"collections": "StarWars",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Mandalorian Outline dark",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/StarWars/mandalorian_outline.png",
