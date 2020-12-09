@@ -1,5 +1,77 @@
 [
 	{
+		"name": "colors 22",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/col_1_bl.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/col_1_bl_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "colors 23",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/col_1_gr.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/col_1_gr_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "colors 24",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/col_1_red.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/col_1_red_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "colors 25",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/col_1_grey.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/col_1_grey_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "colors 26",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/col_1_grey_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/col_1_grey_2_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "colors 27",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/col_1_grey_blue.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/col_1_grey_blue_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "colors 28",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/col_1_grey_red.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/col_1_grey_red_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "colors 29",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/col_1_grey_green.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/col_1_grey_green_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Grogu",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/StarWars/Grogu.png",
@@ -61,7 +133,8 @@
 		"collections": "colors",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
-	},{
+	},
+	{
 		"name": "colors 18",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/colors_18.png",
