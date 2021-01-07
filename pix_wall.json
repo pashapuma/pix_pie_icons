@@ -1,5 +1,95 @@
 [
 	{
+		"name": "Material Reborn Blue",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_blue.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_blue_thumbnail.png",
+		"collections": "MaterialReborn",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Reborn Blue Dark",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_dark_blue.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_dark_blue_thumbnail.png",
+		"collections": "MaterialReborn",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Reborn Red",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_red.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_red_thumbnail.png",
+		"collections": "MaterialReborn",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Reborn Red Dark",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_dark_red.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_dark_red_thumbnail.png",
+		"collections": "MaterialReborn",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Reborn Green",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_green.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_green_thumbnail.png",
+		"collections": "MaterialReborn",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Reborn Green Dark",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_dark_green.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_dark_green_thumbnail.png",
+		"collections": "MaterialReborn",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Reborn Yellow",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_yellow.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_yellow_thumbnail.png",
+		"collections": "MaterialReborn",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Reborn Yellow Dark",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_dark_yellow.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_dark_yellow_thumbnail.png",
+		"collections": "MaterialReborn",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Reborn Earch",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_earch.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_earch_thumbnail.png",
+		"collections": "MaterialReborn",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Reborn Earch Dark",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_earch_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_earch_dark_thumbnail.png",
+		"collections": "MaterialReborn",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Tree",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/New%20year/tree.png",
