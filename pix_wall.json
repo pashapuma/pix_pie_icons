@@ -1,11 +1,38 @@
 [
 	{
+		"name": "Color Drop Blue",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/color_drop_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/color_drop_1_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Color Drop Green",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/color_drop_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/color_drop_2_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Color Drop Red",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/color_drop_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/color_drop_3_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Material Reborn Blue",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_blue.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_blue_thumbnail.png",
 		"collections": "MaterialReborn",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -14,7 +41,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_dark_blue.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_dark_blue_thumbnail.png",
 		"collections": "MaterialReborn",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -23,7 +50,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_red.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_red_thumbnail.png",
 		"collections": "MaterialReborn",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -32,7 +59,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_dark_red.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_dark_red_thumbnail.png",
 		"collections": "MaterialReborn",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -41,7 +68,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_green.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_green_thumbnail.png",
 		"collections": "MaterialReborn",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -50,7 +77,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_dark_green.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_dark_green_thumbnail.png",
 		"collections": "MaterialReborn",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -59,7 +86,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_yellow.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_yellow_thumbnail.png",
 		"collections": "MaterialReborn",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -68,7 +95,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_dark_yellow.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_dark_yellow_thumbnail.png",
 		"collections": "MaterialReborn",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -77,7 +104,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_earch.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_earch_thumbnail.png",
 		"collections": "MaterialReborn",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -86,7 +113,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/material_reborn_earch_dark.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/MaterialReborn/thumbnail/material_reborn_earch_dark_thumbnail.png",
 		"collections": "MaterialReborn",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -94,7 +121,7 @@
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/New%20year/tree.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/New%20year/thumbnail/tree_thumbnail.png",
-		"collections": "NewYear",
+		"collections": "holidays",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
@@ -103,7 +130,7 @@
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/New%20year/tree_2.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/New%20year/thumbnail/tree_2_thumbnail.png",
-		"collections": "NewYear",
+		"collections": "holidays",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
