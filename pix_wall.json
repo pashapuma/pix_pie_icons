@@ -1,5 +1,59 @@
 [
 	{
+		"name": "Chrome OS 1",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_1_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS 2",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_2_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS 3",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_3_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS 4",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_4.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_4_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS 5",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_5.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_5_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS 6",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_6.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_6_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Material Circle",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/material_1.png",
