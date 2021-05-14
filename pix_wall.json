@@ -2,6 +2,33 @@
 	{
 		"name": "c 1",
 		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/Pix6_rend_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/Pix6_rend_1_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "c1 dark",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/Pix6_rend_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/Pix6_rend_2_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "c2",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/Pix6_rend_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/Pix6_rend_3_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "c 1",
+		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/c1.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/c1_thumbnail.png",
 		"collections": "colors",
