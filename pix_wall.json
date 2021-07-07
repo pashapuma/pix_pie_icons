@@ -2,7 +2,7 @@
 	{
 		"name": "Material You 1",
 		"author": "Pashapuma",
-		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material_2/thumbnail/m_y_1.png",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material_2/m_y_1.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material_2/thumbnail/m_y_1_thumbnail.png",
 		"collections": "Material",
 		"downloadable": true,
@@ -11,7 +11,7 @@
 	{
 		"name": "Material You 1 dark",
 		"author": "Pashapuma",
-		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material_2/thumbnail/m_y_2.png",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material_2/m_y_2.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material_2/thumbnail/m_y_2_thumbnail.png",
 		"collections": "Material",
 		"downloadable": true,
@@ -20,8 +20,8 @@
 	{
 		"name": "Material You 2",
 		"author": "Pashapuma",
-		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material_2/thumbnail/m_y_3.png",
-		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material_2/thumbnail/m_y_3_thumbnail.png.png",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material_2/m_y_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material_2/thumbnail/m_y_3_thumbnail.png",
 		"collections": "Material",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
@@ -29,8 +29,8 @@
 	{
 		"name": "Material You 2 dark",
 		"author": "Pashapuma",
-		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material_2/thumbnail/m_y_4.png",
-		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material_2/thumbnail/m_y_4_thumbnail.png.png",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material_2/m_y_4.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material_2/thumbnail/m_y_4_thumbnail.png",
 		"collections": "Material",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
