@@ -1,5 +1,23 @@
 [
 	{
+		"name": "Pixel 6 1",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel6_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel6_1_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Pixel 6 2",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel6_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel6_2_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Material You 1",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material_2/m_y_1.png",
