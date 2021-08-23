@@ -5,7 +5,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/pix5_new_food.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/thumbnail/pix5_new_food_thumbnail.png",
 		"collections": "Food",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -14,7 +14,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/pix5_new_cheese.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/thumbnail/pix5_new_cheese_thumbnail.png",
 		"collections": "Food",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -23,7 +23,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/pix5_new_hop.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/thumbnail/pix5_new_hop_thumbnail.png",
 		"collections": "Food",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},{
 		"name": "Meat",
@@ -31,7 +31,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/pix5_new_meat.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/thumbnail/pix5_new_meat_thumbnail.png",
 		"collections": "Food",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -40,7 +40,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/pix5_new_nuggets.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/thumbnail/pix5_new_nuggets_thumbnail.png",
 		"collections": "Food",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -49,7 +49,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/pix5_new_balance_beer.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/thumbnail/pix5_new_balance_beer_thumbnail.png",
 		"collections": "Food",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -58,7 +58,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/pix5_new_balance_beer_2.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/thumbnail/pix5_new_balance_beer_2_thumbnail.png",
 		"collections": "Food",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -67,7 +67,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/beer_1.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/thumbnail/beer_1_thumbnail.png",
 		"collections": "Food",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -76,7 +76,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/beer_2.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/thumbnail/beer_2_thumbnail.png",
 		"collections": "Food",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -85,7 +85,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/beer_3.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/thumbnail/beer_3_thumbnail.png",
 		"collections": "Food",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -265,7 +265,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/wall_a12_4.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/android/thumbnail/wall_a12_4_thumbnail.png",
 		"collections": "Android",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
