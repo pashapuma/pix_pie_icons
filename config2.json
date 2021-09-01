@@ -1,12 +1,12 @@
 {
   "latestVersion": "5.release",
-  "latestVersionCode": 10,
+  "latestVersionCode": 11,
   "disableRequest": {
-    "below": 10,
-    "on": "1 2 3 4 5 6 7 8 9"
+    "below": 11,
+    "on": "1 2 3 4 5 6 7 8 9 10"
   },
   "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.iconpack",
   "releaseNotes": [
-    " Wait 5 public release"
+    "Icon requests will turn on next week, you will receive a notification from the app."
   ]
 }
