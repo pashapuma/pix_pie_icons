@@ -1,9 +1,9 @@
 {
   "latestVersion": "5.release",
-  "latestVersionCode": 11,
+  "latestVersionCode": 10,
   "disableRequest": {
-    "below": 11,
-    "on": "1 2 3 4 5 6 7 8 9 10"
+    "below": 10,
+    "on": "1 2 3 4 5 6 7 8 9"
   },
   "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.iconpack",
   "releaseNotes": [
