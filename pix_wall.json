@@ -1,5 +1,23 @@
 [
 	{
+		"name": "Flowers Pixel 6 Pro",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Flowers/Flowers_Pixel6_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Flowers/thumbnail/Flowers_Pixel6_1_thumbnail.png",
+		"collections": "Flowers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Flowers Pixel 6 Pro Dark",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Flowers/Flowers_Pixel6_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Flowers/thumbnail/Flowers_Pixel6_2_thumbnail.png",
+		"collections": "Flowers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Food",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/pix5_new_food.png",
