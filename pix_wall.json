@@ -1,5 +1,41 @@
 [
 	{
+		"name": "Flowers as Pixel 6",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Flowers/flow_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Flowers/thumbnail/flow_light_thumbnail.png",
+		"collections": "Flowers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Flowers as Pixel 6 Dark",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Flowers/flow_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Flowers/thumbnail/flow_dark_thumbnail.png",
+		"collections": "Flowers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Pistachio as Pixel 6",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Flowers/pistachios_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Flowers/thumbnail/pistachios_light_thumbnail.png",
+		"collections": "Flowers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Pistachio as Pixel 6 Dark",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Flowers/pistachios_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Flowers/thumbnail/pistachios_dark_thumbnail.png",
+		"collections": "Flowers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Flowers Pixel 6 Pro",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Flowers/2/Flowers_Pixel6_1.png",
