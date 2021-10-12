@@ -2,8 +2,8 @@
   "latestVersion": "4.stable",
   "latestVersionCode": 4,
   "disableRequest": {
-    "below": 1 2 3,
-    "on": ""
+    "below": 4,
+    "on": "1 2 3"
   },
   "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack",
   "releaseNotes": [
