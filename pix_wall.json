@@ -1,5 +1,32 @@
 [
 	{
+		"name": "Flowers new 1",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Flowers/thumbnail/flower_nw_wall_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Flowers/thumbnail/flower_nw_wall_2_thumbnail.png",
+		"collections": "Flowers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Flowers new 2",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Flowers/thumbnail/flower_nw_wall.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Flowers/thumbnail/flower_nw_wall_thumbnail.png",
+		"collections": "Flowers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Blueberry",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/thumbnail/blueberry_wall.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/food/thumbnail/blueberry_wall_thumbnail.png",
+		"collections": "Food",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Shape Wood",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/textue_wood_wall.png",
