@@ -1,5 +1,32 @@
 [
 	{
+		"name": "Material Io 1",
+		"author": "materialIo",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/material_io_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/thumbnail/material_io_1_thumbnail.png",
+		"collections": "material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Io 2",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/material_io_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/thumbnail/material_io_2_thumbnail.png",
+		"collections": "material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Io 3",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/material_io_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/thumbnail/material_io_3_thumbnail.png",
+		"collections": "material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Merry Christmas 1",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/New%20year/christmas_1.png",
