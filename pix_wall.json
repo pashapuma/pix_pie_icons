@@ -1,5 +1,32 @@
 [
 	{
+		"name": "Merry Christmas 6",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/New%20year/christmas_6.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/New%20year/thumbnail/christmas_6_thumbnail.png",
+		"collections": "holidays",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Merry Christmas 7",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/New%20year/christmas_7.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/New%20year/thumbnail/christmas_7_thumbnail.png",
+		"collections": "holidays",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Merry Christmas 8",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/New%20year/christmas_8.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/New%20year/thumbnail/christmas_8_thumbnail.png",
+		"collections": "holidays",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Material Io 1",
 		"author": "materialIo",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/material_io_1.png",
