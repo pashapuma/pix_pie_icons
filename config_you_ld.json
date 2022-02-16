@@ -1,0 +1,12 @@
+{
+  "latestVersion": "1.stable",
+  "latestVersionCode": 3,
+  "disableRequest": {
+    "below": 3,
+    "on": "1 2"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark",
+  "releaseNotes": [
+    "Please Wait Update, Icon Request is disabled..."
+  ]
+}
