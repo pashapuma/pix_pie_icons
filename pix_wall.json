@@ -1,5 +1,104 @@
 [
 	{
+		"name": "Chrome OS 7",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_7.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_7_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS 8",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_8.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_8_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS 9",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_9.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_9_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS 10",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_10.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_10_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS 11",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_11.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_11_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS 12",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_12.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_12_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS 13",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_13.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_13_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS 14",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_14.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_14_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS 15",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_15.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_15_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS 16",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_16.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_16_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS 17",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_17.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_17_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Fett 1",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/StarWars/fett_1.png",
