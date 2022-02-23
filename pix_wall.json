@@ -1,5 +1,77 @@
 [
 	{
+		"name": "Abstract 1",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/abstract/abstract_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/abstract/thumbnail/abstract_1_thumbnail.png",
+		"collections": "Abstract",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Abstract 2",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/abstract/abstract_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/abstract/thumbnail/abstract_2_thumbnail.png",
+		"collections": "Abstract",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Abstract 3",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/abstract/abstract_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/abstract/thumbnail/abstract_3_thumbnail.png",
+		"collections": "Abstract",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Abstract 4",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/abstract/abstract_4.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/abstract/thumbnail/abstract_4_thumbnail.png",
+		"collections": "Abstract",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Abstract 5",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/abstract/abstract_5.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/abstract/thumbnail/abstract_5_thumbnail.png",
+		"collections": "Abstract",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Abstract 6",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/abstract/abstract_6.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/abstract/thumbnail/abstract_6_thumbnail.png",
+		"collections": "Abstract",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Abstract 7",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/abstract/abstract_7.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/abstract/thumbnail/abstract_7_thumbnail.png",
+		"collections": "Abstract",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Abstract 8",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/abstract/abstract_8.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/abstract/thumbnail/abstract_8_thumbnail.png",
+		"collections": "Abstract",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Chrome OS 7",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_7.png",
