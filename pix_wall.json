@@ -1,5 +1,41 @@
 [
 	{
+		"name": "Springtime 5",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Nature/springtime_dark_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Nature/thumbnail/springtime_dark_1_thumbnail.png",
+		"collections": "Nature",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Springtime 6",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Nature/springtime_dark_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Nature/thumbnail/springtime_dark_2_thumbnail.png",
+		"collections": "Nature",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Springtime 7",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Nature/springtime_dark_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Nature/thumbnail/springtime_dark_3_thumbnail.png",
+		"collections": "Nature",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Springtime 8",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Nature/springtime_dark_4.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Nature/thumbnail/springtime_dark_4_thumbnail.png",
+		"collections": "Nature",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Springtime 1",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Nature/springtime_1.png",
