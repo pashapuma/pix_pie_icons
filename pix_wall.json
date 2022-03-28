@@ -1,5 +1,23 @@
 [
 	{
+		"name": "G colors Light",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/google_colors_w.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/google_colors_w_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "G colors Dark",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/google_colors_d.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/colors/thumbnail/google_colors_d_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Monochrome Light",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/monochrome_1.png",
