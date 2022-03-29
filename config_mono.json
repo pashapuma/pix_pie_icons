@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.beta",
-  "latestVersionCode": 1,
+  "latestVersion": "2.beta",
+  "latestVersionCode": 2,
   "disableRequest": {
-    "below": 1,
-    "on": "0"
+    "below": 2,
+    "on": "1"
   },
   "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.mono",
   "releaseNotes": [
