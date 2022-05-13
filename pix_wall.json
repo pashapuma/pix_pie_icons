@@ -1,5 +1,32 @@
 [
 	{
+		"name": "Pixel 6a 1",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/Pixel6a_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/Pixel6a_1_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Pixel 6a 2",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/Pixel6a_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/Pixel6a_2_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Pixel 6a 3",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/Pixel6a_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/Pixel6a_3_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Khonshu",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Marvel/moon_khonshu_1.png",
