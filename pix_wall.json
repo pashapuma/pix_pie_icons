@@ -1,5 +1,113 @@
 [
 	{
+		"name": "Chrome OS Radiance 1",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_radiance_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_radiance_1_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS Radiance 1 Dark",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_radiance_1_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_radiance_1_dark_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS Radiance 2",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_radiance_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_radiance_2_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS Radiance 2 Dark",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_radiance_2_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_radiance_2_dark_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS Radiance 3",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_radiance_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_radiance_3_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS Radiance 3 Dark",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_radiance_3_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_radiance_3_dark_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS Radiance 4",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_radiance_4.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_radiance_4_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS Radiance 4 Dark",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_radiance_4_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_radiance_4_dark_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS Radiance 5",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_radiance_5.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_radiance_5_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS Radiance 5 Dark",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_radiance_5_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_radiance_5_dark_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS Radiance 6",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_radiance_6.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_radiance_6_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Chrome OS Radiance 6 Dark",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/chrome_os_radiance_6_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/chrome_os/thumbnail/chrome_os_radiance_6_dark_thumbnail.png",
+		"collections": "Chrome OS",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Stones 1",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/stones/stones_1.png",
