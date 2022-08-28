@@ -1,0 +1,12 @@
+{
+  "latestVersion": "1.beta",
+  "latestVersionCode": 1,
+  "disableRequest": {
+    "below": 1,
+    "on": "1"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack",
+  "releaseNotes": [
+    "Please Wait Update, Icon Request is disabled..."
+  ]
+}
