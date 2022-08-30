@@ -1,5 +1,59 @@
 [
 	{
+		"name": "PhotoWall 1",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/photo_wall_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/thumbnail/photo_wall_1_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall 2",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/photo_wall_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/thumbnail/photo_wall_2_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall 3",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/photo_wall_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/thumbnail/photo_wall_3_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall 4",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/photo_wall_4.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/thumbnail/photo_wall_4_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall 5",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/photo_wall_5.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/thumbnail/photo_wall_5_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall 6",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/photo_wall_6.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/thumbnail/photo_wall_6_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Jupiter James Webb",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/space/jupiter_webb_1.png",
