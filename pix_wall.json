@@ -1,10 +1,55 @@
 [
 	{
+		"name": "Feathers 1",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/feathers/feathers_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/feathers/thumbnail/feathers_1_thumbnail.png",
+		"collections": "Feathers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Feathers 2",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/feathers/feathers_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/feathers/thumbnail/feathers_2_thumbnail.png",
+		"collections": "Feathers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Feathers 3",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/feathers/feathers_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/feathers/thumbnail/feathers_3_thumbnail.png",
+		"collections": "Feathers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Feathers 4",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/feathers/feathers_4.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/feathers/thumbnail/feathers_4_thumbnail.png",
+		"collections": "Feathers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Feathers 5",
+		"author": "Pashapuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/feathers/feathers_5.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/feathers/thumbnail/feathers_5_thumbnail.png",
+		"collections": "Feathers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Pixel 7 Pro 1",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel7_1.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel7_1_thumbnail.png",
-		"collections": "Pixel",
+		"collections": "Pixel,Feathers",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
@@ -13,7 +58,7 @@
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel7_2.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel7_2_thumbnail.png",
-		"collections": "Pixel",
+		"collections": "Pixel,Feathers",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
@@ -22,7 +67,7 @@
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel7_3.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel7_3_thumbnail.png",
-		"collections": "Pixel",
+		"collections": "Pixel,Feathers",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
@@ -31,7 +76,7 @@
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel7_4.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel7_4_thumbnail.png",
-		"collections": "Pixel",
+		"collections": "Pixel,Feathers",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
