@@ -1,5 +1,113 @@
 [
 	{
+		"name": "Pixel 7 Original 1",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_7_pro_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_7_pro_1_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 7 Original 2",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_7_pro_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_7_pro_2_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 7 Original 3",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_7_pro_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_7_pro_3_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 7 Original 4",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_7_pro_4.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_7_pro_4_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 7 Original 5",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_7_pro_5.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_7_pro_5_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 7 Original 6",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_7_pro_6.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_7_pro_6_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 7 Original 7",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_7_pro_7.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_7_pro_7_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 7 Original 8",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_7_pro_8.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_7_pro_8_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 7 Original 9",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_7_pro_9.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_7_pro_9_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 7 Original 10",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_7_pro_10.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_7_pro_10_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 7 Original 11",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_7_pro_11.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_7_pro_11_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 7 Original 12",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_7_pro_12.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_7_pro_12_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
 		"name": "Parrot Feathers 1",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/feathers/parrot_feathers_1.png",
