@@ -1,5 +1,59 @@
 [
 	{
+		"name": "PhotoWall 7",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/pxl_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/thumbnail/pxl_1_thumbnail.png",
+		"collections": "PhotoWalls,Feathers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall 8",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/pxl_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/thumbnail/pxl_2_thumbnail.png",
+		"collections": "PhotoWalls,Feathers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall 9",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/pxl_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/thumbnail/pxl_3_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall 10",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/pxl_4.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/thumbnail/pxl_4_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall 11",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/pxl_5.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/thumbnail/pxl_5_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall 12",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/pxl_6.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/thumbnail/pxl_6_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Material Outline Dark 1",
 		"author": "PashaPuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/material_outline_1.png",
