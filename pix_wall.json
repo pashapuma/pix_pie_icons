@@ -5,7 +5,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/pxl_7.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/thumbnail/pxl_7_thumbnail.png",
 		"collections": "PhotoWalls",
-		"downloadable": true,
+		"downloadable": false,
 		"copyright": "PashaPuma Design"
 	},
 	{
