@@ -1,11 +1,75 @@
 [
 	{
+		"name": "Pixel Bloom 1",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_bloom_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_bloom_1_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true
+	},
+	{
+		"name": "Pixel Bloom 2",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_bloom_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_bloom_2_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true
+	},
+	{
+		"name": "Pixel Bloom 3",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_bloom_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_bloom_3_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true
+	},
+	{
+		"name": "Pixel Bloom 4",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_bloom_4.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_bloom_4_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true
+	},
+	{
+		"name": "Pixel Bloom 5",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_bloom_5.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_bloom_5_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true
+	},
+	{
+		"name": "Pixel Bloom 6",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_bloom_6.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_bloom_6_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true
+	},
+	{
+		"name": "Pixel Bloom 7",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_bloom_7.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_bloom_7_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true
+	},
+	{
+		"name": "Pixel Bloom 8",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_bloom_8.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/thumbnail/pixel_bloom_8_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true
+	},
+	{
 		"name": "PhotoWall 13",
 		"author": "Pashapuma & Pixel 7 Camera",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/pxl_7.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/PhotoWalls/thumbnail/pxl_7_thumbnail.png",
 		"collections": "PhotoWalls",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
