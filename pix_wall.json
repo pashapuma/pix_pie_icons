@@ -1,5 +1,41 @@
 [
 	{
+		"name": "Cheetah",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/animals/cheetah.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/animals/thumbnail/cheetah_thumbnail.png",
+		"collections": "Animals",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Panther",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/animals/panther.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/animals/thumbnail/panther_thumbnail.png",
+		"collections": "Animals",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Cheetah 2",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/animals/cheetah_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/animals/thumbnail/cheetah_2_thumbnail.png",
+		"collections": "Animals",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Panther 2",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/animals/panther_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/animals/thumbnail/panther_2_thumbnail.png",
+		"collections": "Animals",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Pixel Bloom 1",
 		"author": "Google",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/pixel2/pixel_bloom_1.png",
