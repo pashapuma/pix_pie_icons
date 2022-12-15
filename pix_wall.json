@@ -1,5 +1,95 @@
 [
 	{
+		"name": "Material Daub 1",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/material_daub_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/thumbnail/material_daub_1_thumbnail.png",
+		"collections": "Material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Daub 2",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/material_daub_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/thumbnail/material_daub_2_thumbnail.png",
+		"collections": "Material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Daub 3",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/material_daub_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/thumbnail/material_daub_3_thumbnail.png",
+		"collections": "Material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Daub 4",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/material_daub_4.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/thumbnail/material_daub_4_thumbnail.png",
+		"collections": "Material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Daub 5",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/material_daub_5.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/thumbnail/material_daub_5_thumbnail.png",
+		"collections": "Material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Daub 6",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/material_daub_6.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/thumbnail/material_daub_6_thumbnail.png",
+		"collections": "Material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Daub 7",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/material_daub_7.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/thumbnail/material_daub_7_thumbnail.png",
+		"collections": "Material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Daub 8",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/material_daub_8.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/thumbnail/material_daub_8_thumbnail.png",
+		"collections": "Material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Daub 9",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/material_daub_9.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/thumbnail/material_daub_9_thumbnail.png",
+		"collections": "Material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Material Daub 10",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/material_daub_10.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/material/thumbnail/material_daub_10_thumbnail.png",
+		"collections": "Material",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Cheetah",
 		"author": "PashaPuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/animals/cheetah.png",
