@@ -1,5 +1,50 @@
 [
 	{
+		"name": "Animals 1",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/animals/animals_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/animals/thumbnail/animals_1.png",
+		"collections": "Animals",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Animals 2",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/animals/animals_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/animals/thumbnail/animals_2.png",
+		"collections": "Animals",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Animals 3",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/animals/animals_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/animals/thumbnail/animals_3.png",
+		"collections": "Animals",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Animals 4",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/animals/animals_4.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/animals/thumbnail/animals_4.png",
+		"collections": "Animals",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Animals 5",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/animals/animals_5.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/animals/thumbnail/animals_5.png",
+		"collections": "Animals",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Merry Christmas 14",
 		"author": "Pashapuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/New%20year/christmas_14.png",
