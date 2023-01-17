@@ -1,5 +1,77 @@
 [
 	{
+		"name": "Dinosaurs 1",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/dinosaurs/dinosaurs_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/dinosaurs/thumbnail/dinosaurs_1.png",
+		"collections": "Dinosaurs",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Dinosaurs 2",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/dinosaurs/dinosaurs_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/dinosaurs/thumbnail/dinosaurs_2.png",
+		"collections": "Dinosaurs",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Dinosaurs 3",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/dinosaurs/dinosaurs_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/dinosaurs/thumbnail/dinosaurs_3.png",
+		"collections": "Dinosaurs",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Dinosaurs 4",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/dinosaurs/dinosaurs_4.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/dinosaurs/thumbnail/dinosaurs_4.png",
+		"collections": "Dinosaurs",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Dinosaurs 5",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/dinosaurs/dinosaurs_5.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/dinosaurs/thumbnail/dinosaurs_5.png",
+		"collections": "Dinosaurs",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Dinosaurs 6",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/dinosaurs/dinosaurs_6.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/dinosaurs/thumbnail/dinosaurs_6.png",
+		"collections": "Dinosaurs",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Dinosaurs 7",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/dinosaurs/dinosaurs_7.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/dinosaurs/thumbnail/dinosaurs_7.png",
+		"collections": "Dinosaurs",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Dinosaurs 8",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/dinosaurs/dinosaurs_8.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/dinosaurs/thumbnail/dinosaurs_8.png",
+		"collections": "Dinosaurs",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Birds 1",
 		"author": "PashaPuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/birds/birds_1.png",
