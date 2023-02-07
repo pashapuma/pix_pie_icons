@@ -1,5 +1,59 @@
 [
 	{
+		"name": "Shapes 3d 1",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/shape_3d_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/thumbnail/shape_3d_1_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Shapes 3d 2",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/shape_3d_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/thumbnail/shape_3d_2_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Shapes 3d 3",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/shape_3d_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/thumbnail/shape_3d_3_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Shapes 3d 4",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/shape_3d_4.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/thumbnail/shape_3d_4_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Shapes 3d 5",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/shape_3d_5.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/thumbnail/shape_3d_5_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Shapes 3d 6",
+		"author": "PashaPuma",
+		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/shape_3d_6.png",
+		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/thumbnail/shape_3d_6_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Dinosaurs 1",
 		"author": "PashaPuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/dinosaurs/dinosaurs_1.png",
