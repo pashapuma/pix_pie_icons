@@ -5,7 +5,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/shape_3d_7.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/thumbnail/shape_3d_7_thumbnail.png",
 		"collections": "Shape",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
