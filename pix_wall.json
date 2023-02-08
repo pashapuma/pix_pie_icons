@@ -1,23 +1,5 @@
 [
 	{
-		"name": "3D Shape",
-		"author": "PashaPuma",
-		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/shape_3d_7.png",
-		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/thumbnail/shape_3d_7_thumbnail.png",
-		"collections": "Shape",
-		"downloadable": true,
-		"copyright": "PashaPuma Design"
-	},
-	{
-		"name": "Shapes 3d 1",
-		"author": "PashaPuma",
-		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/shape_3d_1.png",
-		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/thumbnail/shape_3d_1_thumbnail.png",
-		"collections": "Shape",
-		"downloadable": true,
-		"copyright": "PashaPuma Design"
-	},
-	{
 		"name": "Shapes 3d 2",
 		"author": "PashaPuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/shape_3d_2.png",
