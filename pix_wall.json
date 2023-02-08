@@ -14,7 +14,7 @@
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/shape_3d_8.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/thumbnail/shape_3d_8_thumbnail.png",
 		"collections": "Shape",
-		"downloadable": true,
+		"downloadable": false,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -67,15 +67,6 @@
 		"author": "PashaPuma",
 		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/shape_3d_14.png",
 		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/thumbnail/shape_3d_14_thumbnail.png",
-		"collections": "Shape",
-		"downloadable": true,
-		"copyright": "PashaPuma Design"
-	},
-	{
-		"name": "Shapes 3d 1",
-		"author": "PashaPuma",
-		"url": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/shape_3d_1.png",
-		"thumbnail": "https://raw.githubusercontent.com/pashapuma/Wallpapers_app/master/Shapes/thumbnail/shape_3d_1_thumbnail.png",
 		"collections": "Shape",
 		"downloadable": true,
 		"copyright": "PashaPuma Design"
