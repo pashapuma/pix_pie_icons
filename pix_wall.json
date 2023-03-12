@@ -1,5 +1,50 @@
 [
 	{
+		"name": "CornersColors 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/corners_colors_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/corners_colors_1_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "CornersColors 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/corners_colors_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/corners_colors_2_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "CornersColors 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/corners_colors_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/corners_colors_3_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "CornersColors 4",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/corners_colors_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/corners_colors_4_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "CornersColors 5",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/corners_colors_5.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/corners_colors_5_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "CoreColors 1",
 		"author": "Pashapuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app/colors/core_colors_1.png",
