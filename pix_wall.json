@@ -1,5 +1,32 @@
 [
 	{
+		"name": "Wooden 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/wooden/wooden_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/wooden/thumbnail/wooden_1_thumbnail.png",
+		"collections": "Wooden",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Wooden 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/wooden/wooden_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/wooden/thumbnail/wooden_2_thumbnail.png",
+		"collections": "Wooden",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Wooden 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/wooden/wooden_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/wooden/thumbnail/wooden_3_thumbnail.png",
+		"collections": "Wooden",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "CornersColors 1",
 		"author": "Pashapuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app/colors/corners_colors_1.png",
