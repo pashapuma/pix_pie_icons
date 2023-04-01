@@ -1,5 +1,59 @@
 [
 	{
+		"name": "M Palette 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/m_palette_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/m_palette_1_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "M Palette 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/m_palette_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/m_palette_2_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "M Palette 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/m_palette_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/m_palette_3_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "M Palette 4",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/m_palette_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/m_palette_4_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "M Palette 5",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/m_palette_5.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/m_palette_5_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "M Palette 6",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/m_palette_6.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/m_palette_6_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Material Textures 1",
 		"author": "Pashapuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app/Textures/textures_1.png",
