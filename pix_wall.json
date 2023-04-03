@@ -1,5 +1,77 @@
 [
 	{
+		"name": "Weave Palette 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/m3_palette_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/m3_palette_1_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Weave Palette 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/m3_palette_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/m3_palette_2_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Weave Palette 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/m3_palette_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/m3_palette_3_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Weave Palette 4",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/m3_palette_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/m3_palette_4_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Weave Palette 5",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/m3_palette_5.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/m3_palette_5_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Weave Palette 6",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/m3_palette_6.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/m3_palette_6_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Weave Palette 7",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/m3_palette_7.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/m3_palette_7_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Weave Palette 8",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/m3_palette_8.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/m3_palette_8_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "M Palette 1",
 		"author": "Pashapuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app/colors/m_palette_1.png",
