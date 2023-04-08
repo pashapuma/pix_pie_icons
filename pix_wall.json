@@ -1,5 +1,131 @@
 [
 	{
+		"name": "PhotoWall Village 1",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_7.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_7_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall Village 2",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_8.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_8_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall Village 3",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_9.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_9_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall Village 4",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_10.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_10_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall Village 5",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_11.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_11_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall Wooden",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_12.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_12_thumbnail.png",
+		"collections": "PhotoWalls,Wooden",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall Flowers 1",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_13.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_13_thumbnail.png",
+		"collections": "PhotoWalls,Flowers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall Flowers 2",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_14.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_14_thumbnail.png",
+		"collections": "PhotoWalls,Flowers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall Flowers 3",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_15.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_15_thumbnail.png",
+		"collections": "PhotoWalls,Flowers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall Feathers 1",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_16.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_16_thumbnail.png",
+		"collections": "PhotoWalls,Feathers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall Feathers 2",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_17.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_17_thumbnail.png",
+		"collections": "PhotoWalls,Feathers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall Feathers 3",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_18.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_18_thumbnail.png",
+		"collections": "PhotoWalls,Feathers",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall Wool",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_19.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_19_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall Easter",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_20.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_20_thumbnail.png",
+		"collections": "PhotoWalls,holidays",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Mandalorian Season3 1",
 		"author": "Pashapuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app/StarWars/mandalorian_1.png",
