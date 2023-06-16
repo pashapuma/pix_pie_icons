@@ -1,5 +1,113 @@
 [
 	{
+		"name": "Shapes New 1",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Shapes/shapes_ptn_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Shapes/thumbnail/shapes_ptn_1_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Shapes New 2",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Shapes/shapes_ptn_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Shapes/thumbnail/shapes_ptn_2_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Shapes New 3",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Shapes/shapes_ptn_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Shapes/thumbnail/shapes_ptn_3_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Shapes New 4",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Shapes/shapes_ptn_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Shapes/thumbnail/shapes_ptn_4_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Shapes New 5",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Shapes/shapes_ptn_5.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Shapes/thumbnail/shapes_ptn_5_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Shapes New 6",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Shapes/shapes_ptn_6.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Shapes/thumbnail/shapes_ptn_6_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Shapes New 7",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Shapes/shapes_ptn_7.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Shapes/thumbnail/shapes_ptn_7_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Shapes New 8",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Shapes/shapes_ptn_8.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Shapes/thumbnail/shapes_ptn_8_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Shapes New 9",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Shapes/shapes_ptn_9.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Shapes/thumbnail/shapes_ptn_9_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Shapes New 10",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Shapes/shapes_ptn_10.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Shapes/thumbnail/shapes_ptn_10_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Shapes New 11",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Shapes/shapes_ptn_11.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Shapes/thumbnail/shapes_ptn_11_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Shapes New 12",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Shapes/shapes_ptn_12.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Shapes/thumbnail/shapes_ptn_12_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Pixel 7a 1",
 		"author": "Google",
 		"url": "https://pashapuma.github.io/Wallpapers_app/pixel2/pixel_7a_1.png",
