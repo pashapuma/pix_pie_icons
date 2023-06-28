@@ -1,5 +1,113 @@
 [
 	{
+		"name": "PhotoWall from Users",
+		"author": "Pashapuma & Users Group",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_21.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_21_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall from Users 2",
+		"author": "Pashapuma & Users Group",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_22.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_22_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall from Users 3",
+		"author": "Pashapuma & Users Group",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_23.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_23_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall from Users 4",
+		"author": "Pashapuma & Users Group",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_24.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_24_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall from Users 5",
+		"author": "Pashapuma & Users Group",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_25.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_25_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall from Users 6",
+		"author": "Pashapuma & Users Group",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_26.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_26_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall from Users 7",
+		"author": "Pashapuma & Users Group",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_27.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_27_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall from Users 8",
+		"author": "Pashapuma & Users Group",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_28.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_28_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall from Users 9",
+		"author": "Pashapuma & Users Group",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_29.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_29_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall from Users 10",
+		"author": "Pashapuma & Users Group",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_30.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_30_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall from Users 11",
+		"author": "Pashapuma & Users Group",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_31.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_31_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "PhotoWall from Users 12",
+		"author": "Pashapuma & Users Group",
+		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_32.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/thumbnail/photo_wall_32_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Pixel 8",
 		"author": "Google",
 		"url": "https://pashapuma.github.io/Wallpapers_app/pixel2/pixel_8_1.png",
