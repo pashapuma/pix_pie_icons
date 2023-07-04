@@ -1,5 +1,149 @@
 [
 	{
+		"name": "RePulley 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/re_pulley_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/re_pulley_1_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "RePulley 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/re_pulley_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/re_pulley_2_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "RePulley 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/re_pulley_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/re_pulley_3_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "RePulley 4",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/re_pulley_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/re_pulley_4_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "RepColor 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/rep_color_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/rep_color_1_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "RepColor 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/rep_color_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/rep_color_2_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "RepColor 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/rep_color_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/rep_color_3_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "RepColor 4",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/rep_color_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/rep_color_4_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "RepColor 5",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/rep_color_5.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/rep_color_5_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "RepColor 6",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/rep_color_6.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/rep_color_6_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "RepColor 7",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/rep_color_7.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/rep_color_7_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "RepColor 8",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/colors/rep_color_8.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/rep_color_8_thumbnail.png",
+		"collections": "colors",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Mineral 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/stones/mineral_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/stones/thumbnail/mineral_1_thumbnail.png",
+		"collections": "Stones",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Mineral 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/stones/mineral_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/stones/thumbnail/mineral_2_thumbnail.png",
+		"collections": "Stones",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Mineral 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/stones/mineral_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/stones/thumbnail/mineral_3_thumbnail.png",
+		"collections": "Stones",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Mineral 4",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/stones/mineral_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/stones/thumbnail/mineral_4_thumbnail.png",
+		"collections": "Stones",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "PhotoWall from Users",
 		"author": "Pashapuma & Users Group",
 		"url": "https://pashapuma.github.io/Wallpapers_app/PhotoWalls/photo_wall_21.png",
