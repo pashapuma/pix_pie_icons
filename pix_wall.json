@@ -1,11 +1,101 @@
 [
 	{
+		"name": "Nature Outline 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Nature/flower_outline_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Nature/thumbnail/flower_outline_1_thumbnail.png",
+		"collections": "Nature",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Nature Outline 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Nature/flower_outline_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Nature/thumbnail/flower_outline_2_thumbnail.png",
+		"collections": "Nature",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Nature Outline 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Nature/flower_outline_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Nature/thumbnail/flower_outline_3_thumbnail.png",
+		"collections": "Nature",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Nature Outline 4",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Nature/flower_outline_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Nature/thumbnail/flower_outline_4_thumbnail.png",
+		"collections": "Nature",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Nature Outline 5",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Nature/flower_outline_5.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Nature/thumbnail/flower_outline_5_thumbnail.png",
+		"collections": "Nature",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Nature Outline 6",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Nature/flower_outline_6.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Nature/thumbnail/flower_outline_6_thumbnail.png",
+		"collections": "Nature",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Nature Outline 7",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Nature/flower_outline_7.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Nature/thumbnail/flower_outline_7_thumbnail.png",
+		"collections": "Nature",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Nature Outline 8",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Nature/flower_outline_8.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Nature/thumbnail/flower_outline_8_thumbnail.png",
+		"collections": "Nature",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Nature Outline 9",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Nature/flower_outline_9.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Nature/thumbnail/flower_outline_9_thumbnail.png",
+		"collections": "Nature",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Nature Outline 10",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app/Nature/flower_outline_10.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Nature/thumbnail/flower_outline_10_thumbnail.png",
+		"collections": "Nature",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "RePulley 1",
 		"author": "Pashapuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app/colors/re_pulley_1.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/re_pulley_1_thumbnail.png",
 		"collections": "colors",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -14,7 +104,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app/colors/re_pulley_2.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/re_pulley_2_thumbnail.png",
 		"collections": "colors",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -23,7 +113,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app/colors/re_pulley_3.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/re_pulley_3_thumbnail.png",
 		"collections": "colors",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -32,7 +122,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app/colors/re_pulley_4.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/re_pulley_4_thumbnail.png",
 		"collections": "colors",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -41,7 +131,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app/colors/rep_color_1.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/rep_color_1_thumbnail.png",
 		"collections": "colors",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -50,7 +140,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app/colors/rep_color_2.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/rep_color_2_thumbnail.png",
 		"collections": "colors",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -59,7 +149,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app/colors/rep_color_3.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/rep_color_3_thumbnail.png",
 		"collections": "colors",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -68,7 +158,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app/colors/rep_color_4.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/rep_color_4_thumbnail.png",
 		"collections": "colors",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -77,7 +167,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app/colors/rep_color_5.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/rep_color_5_thumbnail.png",
 		"collections": "colors",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -86,7 +176,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app/colors/rep_color_6.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/rep_color_6_thumbnail.png",
 		"collections": "colors",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -95,7 +185,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app/colors/rep_color_7.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/rep_color_7_thumbnail.png",
 		"collections": "colors",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -104,7 +194,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app/colors/rep_color_8.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/rep_color_8_thumbnail.png",
 		"collections": "colors",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
