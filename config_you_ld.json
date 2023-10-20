@@ -1,9 +1,9 @@
 {
-  "latestVersion": "3.2.Build",
-  "latestVersionCode": 21,
+  "latestVersion": "3.3.Build",
+  "latestVersionCode": 22,
   "disableRequest": {
-    "below": 21,
-    "on": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20"
+    "below": 22,
+    "on": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21"
   },
   "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark",
   "releaseNotes": [
