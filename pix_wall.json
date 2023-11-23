@@ -1,11 +1,83 @@
 [
 	{
+		"name": "Pixel 8a 1",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_8a_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_8a_1_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 8a 2",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_8a_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_8a_2_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 8a 3",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_8a_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_8a_3_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 8a 4",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_8a_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_8a_4_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 8a 5",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_8a_5.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_8a_5_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 8a 6",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_8a_6.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_8a_6_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 8a 7",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_8a_7.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_8a_7_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 8a 8",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_8a_8.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_8a_8_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
 		"name": "Autumn Material 1",
 		"author": "Pashapuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nature/autumn_material_1.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nature/thumbnail/autumn_material_1_thumbnail.png",
 		"collections": "Nature",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -14,7 +86,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nature/autumn_material_2.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nature/thumbnail/autumn_material_2_thumbnail.png",
 		"collections": "Nature",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -23,7 +95,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nature/autumn_material_3.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nature/thumbnail/autumn_material_3_thumbnail.png",
 		"collections": "Nature",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -32,7 +104,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nature/autumn_material_4.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nature/thumbnail/autumn_material_4_thumbnail.png",
 		"collections": "Nature",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -41,7 +113,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nature/autumn_material_5.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nature/thumbnail/autumn_material_5_thumbnail.png",
 		"collections": "Nature",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -50,7 +122,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nature/autumn_material_6.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nature/thumbnail/autumn_material_6_thumbnail.png",
 		"collections": "Nature",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -59,7 +131,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nature/autumn_material_7.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nature/thumbnail/autumn_material_7_thumbnail.png",
 		"collections": "Nature",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -68,7 +140,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nature/autumn_material_8.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nature/thumbnail/autumn_material_8_thumbnail.png",
 		"collections": "Nature",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
