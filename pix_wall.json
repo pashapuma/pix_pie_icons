@@ -1,5 +1,158 @@
 [
 	{
+		"name": "Redmi K70 1",
+		"author": "Redmi",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/redmi_k70_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/redmi_k70_1_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Redmi"
+	},
+	{
+		"name": "Redmi K70 2",
+		"author": "Redmi",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/redmi_k70_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/redmi_k70_2_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Redmi"
+	},
+	{
+		"name": "Xiaomi 14 1",
+		"author": "Xiaomi",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/xiaomi14_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/xiaomi14_1_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Xiaomi"
+	},
+	{
+		"name": "Xiaomi 14 2",
+		"author": "Xiaomi",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/xiaomi14_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/xiaomi14_2_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Xiaomi"
+	},
+	{
+		"name": "Oppo Find N3 1",
+		"author": "Oppo",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/oppo_find_n3_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/oppo_find_n3_1_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Oppo"
+	},
+	{
+		"name": "Oppo Find N3 2",
+		"author": "Oppo",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/oppo_find_n3_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/oppo_find_n3_2_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Oppo"
+	},
+	{
+		"name": "Oppo Find N3 3",
+		"author": "Oppo",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/oppo_find_n3_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/oppo_find_n3_3_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Oppo"
+	},
+	{
+		"name": "OnePlus 12 1",
+		"author": "OnePlus",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/oneplus12_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/oneplus12_1_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "OnePlus"
+	},
+	{
+		"name": "OnePlus 12 2",
+		"author": "OnePlus",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/oneplus12_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/oneplus12_2_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "OnePlus"
+	},
+	{
+		"name": "OnePlus 12 3",
+		"author": "OnePlus",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/oneplus12_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/oneplus12_3_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "OnePlus"
+	},
+	{
+		"name": "HyperOs 1",
+		"author": "Xiaomi",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/hyper_os_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/hyper_os_1_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Xiaomi"
+	},
+	{
+		"name": "HyperOs 2",
+		"author": "Xiaomi",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/hyper_os_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/hyper_os_2_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Xiaomi"
+	},
+	{
+		"name": "HyperOs 3",
+		"author": "Xiaomi",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/hyper_os_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/hyper_os_3_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Xiaomi"
+	},
+	{
+		"name": "HyperOs 4",
+		"author": "Xiaomi",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/hyper_os_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/hyper_os_4_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Xiaomi"
+	},
+	{
+		"name": "HyperOs 5",
+		"author": "Xiaomi",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/hyper_os_5.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/hyper_os_5_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Xiaomi"
+	},
+	{
+		"name": "HyperOs 6",
+		"author": "Xiaomi",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/hyper_os_6.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/hyper_os_6_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Xiaomi"
+	},
+	{
+		"name": "HyperOs 7",
+		"author": "Xiaomi",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/hyper_os_7.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/hyper_os_7_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Xiaomi"
+	},
+	{
 		"name": "Nothing Phone 1",
 		"author": "Nothing",
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/nothing_1.png",
