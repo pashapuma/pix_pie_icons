@@ -1,5 +1,104 @@
 [
 	{
+		"name": "Lens Blurry 1",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/stones/lens_blurry_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/stones/thumbnail/lens_blurry_1_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Lens Blurry 2",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/stones/lens_blurry_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/stones/thumbnail/lens_blurry_2_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Lens Blurry 3",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/stones/lens_blurry_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/stones/thumbnail/lens_blurry_3_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Salt Stone 1",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/stones/salt_stone_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/stones/thumbnail/salt_stone_1_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Salt Stone 2",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/stones/salt_stone_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/stones/thumbnail/salt_stone_2_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Salt Stone 3",
+		"author": "Pashapuma & Pixel 7 Camera",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/stones/salt_stone_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/stones/thumbnail/salt_stone_3_thumbnail.png",
+		"collections": "PhotoWalls",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Nothing Phone 5 Yellow",
+		"author": "Nothing",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/nothing_5_yellow.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/thumbnail/nothing_5_yellow_thumbnail.png",
+		"collections": "Nothing",
+		"downloadable": true,
+		"copyright": "Nothing"
+	},
+	{
+		"name": "Nothing Phone 5 Green",
+		"author": "Nothing",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/nothing_5_green.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/thumbnail/nothing_5_green_thumbnail.png",
+		"collections": "Nothing",
+		"downloadable": true,
+		"copyright": "Nothing"
+	},
+	{
+		"name": "Nothing Phone 5 Blue",
+		"author": "Nothing",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/nothing_5_blue.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/thumbnail/nothing_5_blue_thumbnail.png",
+		"collections": "Nothing",
+		"downloadable": true,
+		"copyright": "Nothing"
+	},
+	{
+		"name": "Nothing Phone 1 Blue",
+		"author": "Nothing",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/nothing_1_blue.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/thumbnail/nothing_1_blue_thumbnail.png",
+		"collections": "Nothing",
+		"downloadable": true,
+		"copyright": "Nothing"
+	},
+	{
+		"name": "Nothing Phone 1 Yellow",
+		"author": "Nothing",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/nothing_1_yellow.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/thumbnail/nothing_1_yellow_thumbnail.png",
+		"collections": "Nothing",
+		"downloadable": true,
+		"copyright": "Nothing"
+	},
+	{
 		"name": "Redmi K70 1",
 		"author": "Redmi",
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/redmi_k70_1.png",
