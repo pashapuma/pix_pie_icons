@@ -1,11 +1,101 @@
 [
 	{
+		"name": "Gradient 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/gradient_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/gradient_1_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Gradient 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/gradient_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/gradient_2_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Gradient 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/gradient_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/gradient_3_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Gradient 4",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/gradient_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/gradient_4_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Sand Gradient 12",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/sand_gradient_12.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/sand_gradient_12_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Sand Gradient 11",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/sand_gradient_11.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/sand_gradient_11_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Sand Gradient 10",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/sand_gradient_10.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/sand_gradient_10_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Sand Gradient 9",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/sand_gradient_9.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/sand_gradient_9_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Sand Gradient 8",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/sand_gradient_8.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/sand_gradient_8_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Sand Gradient 7",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/sand_gradient_7.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/sand_gradient_7_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": false,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Sand Gradient 1",
 		"author": "Pashapuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/sand_gradient_1.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/sand_gradient_1_thumbnail.png",
 		"collections": "Gradient",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -14,7 +104,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/sand_gradient_2.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/sand_gradient_2_thumbnail.png",
 		"collections": "Gradient",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -23,7 +113,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/sand_gradient_3.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/sand_gradient_3_thumbnail.png",
 		"collections": "Gradient",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -32,7 +122,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/sand_gradient_4.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/sand_gradient_4_thumbnail.png",
 		"collections": "Gradient",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -41,7 +131,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/sand_gradient_5.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/sand_gradient_5_thumbnail.png",
 		"collections": "Gradient",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -50,7 +140,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/sand_gradient_6.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/sand_gradient_6_thumbnail.png",
 		"collections": "Gradient",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
