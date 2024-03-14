@@ -1,11 +1,119 @@
 [
 	{
+		"name": "Samsung S24 1",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/samsung_s24_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/samsung_s24_1_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
+		"name": "Samsung S24 2",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/samsung_s24_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/samsung_s24_2_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
+		"name": "Samsung S24 3",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/samsung_s24_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/samsung_s24_3_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
+		"name": "Samsung S24 4",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/samsung_s24_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/samsung_s24_4_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
+		"name": "Samsung M14 1",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/samsung_m14_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/samsung_m14_1_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
+		"name": "Samsung M14 2",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/samsung_m14_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/samsung_m14_2_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
+		"name": "Xiaomi 14 Ultra",
+		"author": "Xiaomi",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/xiaomi_14u_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/xiaomi_14u_1_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Xiaomi"
+	},
+	{
+		"name": "Xiaomi 14 Ultra 2",
+		"author": "Xiaomi",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/xiaomi_14u_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/xiaomi_14u_2_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Xiaomi"
+	},
+	{
+		"name": "Nothing Phone 2a 1",
+		"author": "Nothing",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/nothing_2a_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/thumbnail/nothing_2a_1_thumbnail.png",
+		"collections": "Nothing",
+		"downloadable": true,
+		"copyright": "Nothing"
+	},
+	{
+		"name": "Nothing Phone 2a 2",
+		"author": "Nothing",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/nothing_2a_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/thumbnail/nothing_2a_2_thumbnail.png",
+		"collections": "Nothing",
+		"downloadable": true,
+		"copyright": "Nothing"
+	},
+	{
+		"name": "Nothing Phone 2a 3",
+		"author": "Nothing",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/nothing_2a_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/thumbnail/nothing_2a_3_thumbnail.png",
+		"collections": "Nothing",
+		"downloadable": true,
+		"copyright": "Nothing"
+	},
+	{
+		"name": "Nothing Phone 2a 4",
+		"author": "Nothing",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/nothing_2a_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/thumbnail/nothing_2a_4_thumbnail.png",
+		"collections": "Nothing",
+		"downloadable": true,
+		"copyright": "Nothing"
+	},
+	{
 		"name": "Gradient 1",
 		"author": "Pashapuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/gradient_1.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/gradient_1_thumbnail.png",
 		"collections": "Gradient",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -14,7 +122,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/gradient_2.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/gradient_2_thumbnail.png",
 		"collections": "Gradient",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -23,7 +131,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/gradient_3.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/gradient_3_thumbnail.png",
 		"collections": "Gradient",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -32,7 +140,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/gradient_4.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/gradient_4_thumbnail.png",
 		"collections": "Gradient",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -41,7 +149,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/sand_gradient_12.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/sand_gradient_12_thumbnail.png",
 		"collections": "Gradient",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -50,7 +158,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/sand_gradient_11.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/sand_gradient_11_thumbnail.png",
 		"collections": "Gradient",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -59,7 +167,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/sand_gradient_10.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/sand_gradient_10_thumbnail.png",
 		"collections": "Gradient",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -68,7 +176,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/sand_gradient_9.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/sand_gradient_9_thumbnail.png",
 		"collections": "Gradient",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -77,7 +185,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/sand_gradient_8.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/sand_gradient_8_thumbnail.png",
 		"collections": "Gradient",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -86,7 +194,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/sand_gradient_7.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/sand_gradient_7_thumbnail.png",
 		"collections": "Gradient",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
