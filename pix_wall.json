@@ -1,5 +1,41 @@
 [
 	{
+		"name": "ColorShapes 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Shapes/colors_shapes_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Shapes/thumbnail/colors_shapes_1_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "ColorShapes 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Shapes/colors_shapes_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Shapes/thumbnail/colors_shapes_2_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "ColorShapes 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Shapes/colors_shapes_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Shapes/thumbnail/colors_shapes_3_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "ColorShapes 4",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Shapes/colors_shapes_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Shapes/thumbnail/colors_shapes_4_thumbnail.png",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "BlurColor NB 1",
 		"author": "Pashapuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/colors/blur_nb_1.png",
