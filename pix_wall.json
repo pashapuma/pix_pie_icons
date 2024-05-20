@@ -1,5 +1,257 @@
 [
 	{
+		"name": "Pixel 9 Jade Dark",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_jade_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_jade_dark_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Jade Light",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_jade_light.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_jade_light_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Obsidian Dark",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_obsidian_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_obsidian_dark_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Obsidian Light",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_obsidian_light.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_obsidian_light_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Peony Dark",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_peony_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_peony_dark_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Peony Light",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_peony_light.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_peony_light_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Porcelain Dark",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_porcelain_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_porcelain_dark_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Porcelain Light",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_porcelain_light.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_porcelain_light_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Pro Hazel Dark",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_pro_hazel_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_pro_hazel_dark_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Pro Hazel Light",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_pro_hazel_light.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_pro_hazel_light_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Pro Obsidian Dark",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_pro_obsidian_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_pro_obsidian_dark_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Pro Obsidian Light",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_pro_obsidian_light.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_pro_obsidian_light_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Pro Porcelain Dark",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_pro_porcelain_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_pro_porcelain_dark_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Pro Porcelain Light",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_pro_porcelain_light.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_pro_porcelain_light_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Pro Rose Dark",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_pro_rose_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_pro_rose_dark_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Pro Rose Light",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_pro_rose_light.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_pro_rose_light_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Pro XL Hazel Dark",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_pro_xl_hazel_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_pro_xl_hazel_dark_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Pro XL Hazel Light",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_pro_xl_hazel_light.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_pro_xl_hazel_light_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Pro XL Obsidian Dark",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_pro_xl_obsidian_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_pro_xl_obsidian_dark_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Pro XL Obsidian Light",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_pro_xl_obsidian_light.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_pro_xl_obsidian_light_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Pro XL Porcelain Dark",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_pro_xl_porcelain_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_pro_xl_porcelain_dark_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Pro XL Porcelain Light",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_pro_xl_porcelain_light.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_pro_xl_porcelain_light_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Pro XL Rose Dark",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_pro_xl_rose_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_pro_xl_rose_dark_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Pro XL Rose Light",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_pro_xl_rose_light.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_pro_xl_rose_light_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Fold Obsidian Dark",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_fold_obsidian_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_fold_obsidian_dark_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Fold Obsidian Light",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_fold_obsidian_light.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_fold_obsidian_light_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Fold Porcelain Dark",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_fold_porcelain_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_fold_porcelain_dark_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9 Fold Porcelain Light",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_9_fold_porcelain_light.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_9_fold_porcelain_light_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
 		"name": "Colored Circles 1",
 		"author": "Pashapuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Textures/colored_circles_1.png",
