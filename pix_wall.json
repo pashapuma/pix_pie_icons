@@ -1,5 +1,77 @@
 [
 	{
+		"name": "iOs 18",
+		"author": "Apple",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/ios18_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/ios18_1_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Apple"
+	},
+	{
+		"name": "iOs 18 2",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/ios18_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/ios18_2_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "iOs 18 3",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/ios18_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/ios18_3_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "iOs 18 4",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/ios18_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/ios18_4_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "iOs 18 5",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/ios18_5.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/ios18_5_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "iOs 18 6",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/ios18_6.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/ios18_6_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "iOs 18 7",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/ios18_7.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/ios18_7_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "iOs 18 8",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/ios18_8.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/ios18_8_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Inspired Nothing Phone",
 		"author": "Pashapuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/nothing_15.png",
