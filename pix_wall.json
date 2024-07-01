@@ -1,5 +1,149 @@
 [
 	{
+		"name": "Leaky Gradient 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/leaky_gradient_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/leaky_gradient_1_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Leaky Gradient 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/leaky_gradient_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/leaky_gradient_2_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Leaky Gradient 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/leaky_gradient_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/leaky_gradient_3_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Leaky Gradient 4",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/leaky_gradient_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/leaky_gradient_4_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Leaky Gradient 5",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/leaky_gradient_5.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/leaky_gradient_5_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Leaky Gradient 6",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/leaky_gradient_6.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/leaky_gradient_6_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Leaky Gradient 7",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/leaky_gradient_7.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/leaky_gradient_7_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Leaky Gradient 8",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/leaky_gradient_8.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/leaky_gradient_8_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Triangular Gradient 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/triangular_gradient_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/triangular_gradient_1_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Triangular Gradient 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/triangular_gradient_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/triangular_gradient_2_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Triangular Gradient 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/triangular_gradient_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/triangular_gradient_3_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Triangular Gradient 4",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/triangular_gradient_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/triangular_gradient_4_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Triangular Gradient 5",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/triangular_gradient_5.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/triangular_gradient_5_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Triangular Gradient 6",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/triangular_gradient_6.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/triangular_gradient_6_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Triangular Gradient 7",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/triangular_gradient_7.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/triangular_gradient_7_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Triangular Gradient 8",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/triangular_gradient_8.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/triangular_gradient_8_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "iOs 18",
 		"author": "Apple",
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/ios18_1.png",
