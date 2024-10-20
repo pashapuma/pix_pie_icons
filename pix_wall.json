@@ -1,5 +1,203 @@
 [
 	{
+		"name": "Pixel 9a 1",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel9a_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel9a_1_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9a 2",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel9a_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel9a_2_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9a 3",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel9a_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel9a_3_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9a 4",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel9a_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel9a_4_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Samsung Tab 10 1",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/samsung_tab_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/samsung_tab_1_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
+		"name": "Samsung Tab 10 2",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/samsung_tab_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/samsung_tab_2_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
+		"name": "Samsung Tab 10 3",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/samsung_tab_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/samsung_tab_3_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
+		"name": "Samsung Tab 10 4",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/samsung_tab_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/samsung_tab_4_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
+		"name": "Samsung Tab 10 5",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/samsung_tab_5.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/samsung_tab_5_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
+		"name": "Samsung Tab 10 6",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/samsung_tab_6.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/samsung_tab_6_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
+		"name": "Vivo X200 1",
+		"author": "vivo",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/vivo_x200_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/vivo_x200_1_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "vivo"
+	},
+	{
+		"name": "Vivo X200 2",
+		"author": "vivo",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/vivo_x200_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/vivo_x200_2_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "vivo"
+	},
+	{
+		"name": "Vivo X200 3",
+		"author": "vivo",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/vivo_x200_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/vivo_x200_3_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "vivo"
+	},
+	{
+		"name": "Vivo X200 4",
+		"author": "vivo",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/vivo_x200_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/vivo_x200_4_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "vivo"
+	},
+	{
+		"name": "ColorOS 15 1",
+		"author": "ColorOS",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/coloros15_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/coloros15_1_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "ColorOS"
+	},
+	{
+		"name": "ColorOS 15 2",
+		"author": "ColorOS",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/coloros15_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/coloros15_2_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "ColorOS"
+	},
+	{
+		"name": "ColorOS 15 3",
+		"author": "ColorOS",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/coloros15_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/coloros15_3_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "ColorOS"
+	},
+	{
+		"name": "ColorOS 15 4",
+		"author": "ColorOS",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/coloros15_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/coloros15_4_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "ColorOS"
+	},
+	{
+		"name": "Moto G55",
+		"author": "Moto",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/moto_g55_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/moto_g55_1_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Moto"
+	},
+	{
+		"name": "Moto G55",
+		"author": "Moto",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/moto_g55_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/moto_g55_2_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Moto"
+	},
+	{
+		"name": "Moto G75 1",
+		"author": "Moto",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/moto_g75_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/moto_g75_1_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Moto"
+	},
+	{
+		"name": "Moto G75 2",
+		"author": "Moto",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/moto_g75_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/moto_g75_2_thumbnail.png",
+		"collections": "OtherDevice",
+		"downloadable": true,
+		"copyright": "Moto"
+	},
+	{
 		"name": "PhotoWalls Sochi 1",
 		"author": "PashaPuma Design",
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/PhotoWalls/photo_wall_129.png",
