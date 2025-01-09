@@ -1,5 +1,23 @@
 [
 	{
+		"name": "Samsung S25",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/s25_wall.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/s25_wall_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
+		"name": "Samsung S25 Dark",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/s25_wall_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/s25_wall_dark_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
 		"name": "XiColors 1",
 		"author": "Pashapuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Shapes/xi_colors_1.png",
