@@ -1,5 +1,95 @@
 [
 	{
+		"name": "Gemini Wall 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/gemini_wall_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/gemini_wall_1_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Gemini Wall 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/gemini_wall_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/gemini_wall_2_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Gemini Wall 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/gemini_wall_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/gemini_wall_3_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Gemini Wall 4",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/gemini_wall_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/gemini_wall_4_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Gemini Wall 5",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/gemini_wall_5.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/gemini_wall_5_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Gemini Wall 6",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/gemini_wall_6.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/gemini_wall_6_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Brick Material 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Textures/brick_material_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Textures/thumbnail/brick_material_1_thumbnail.png",
+		"collections": "Textures",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Brick Material 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Textures/brick_material_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Textures/thumbnail/brick_material_2_thumbnail.png",
+		"collections": "Textures",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Brick Material 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Textures/brick_material_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Textures/thumbnail/brick_material_3_thumbnail.png",
+		"collections": "Textures",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Brick Material 4",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Textures/brick_material_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Textures/thumbnail/brick_material_4_thumbnail.png",
+		"collections": "Textures",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "PhotoWall Balls 1",
 		"author": "PashaPuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/PhotoWalls/photo_wall_186.png",
@@ -2408,7 +2498,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Textures/colored_circles_1.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Textures/thumbnail/colored_circles_1_thumbnail.png",
 		"collections": "Textures",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -2417,7 +2507,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Textures/colored_circles_2.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Textures/thumbnail/colored_circles_2_thumbnail.png",
 		"collections": "Textures",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -2426,7 +2516,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Textures/colored_circles_3.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Textures/thumbnail/colored_circles_3_thumbnail.png",
 		"collections": "Textures",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -2435,7 +2525,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Textures/colored_circles_4.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Textures/thumbnail/colored_circles_4_thumbnail.png",
 		"collections": "Textures",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -2444,7 +2534,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Textures/colored_circles_5.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Textures/thumbnail/colored_circles_5_thumbnail.png",
 		"collections": "Textures",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -2453,7 +2543,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Textures/colored_circles_6.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Textures/thumbnail/colored_circles_6_thumbnail.png",
 		"collections": "Textures",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -2462,7 +2552,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Textures/colored_circles_7.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Textures/thumbnail/colored_circles_7_thumbnail.png",
 		"collections": "Textures",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -2471,7 +2561,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Textures/colored_circles_8.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Textures/thumbnail/colored_circles_8_thumbnail.png",
 		"collections": "Textures",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -2480,7 +2570,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Textures/colored_circles_9.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Textures/thumbnail/colored_circles_9_thumbnail.png",
 		"collections": "Textures",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -6521,7 +6611,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app/Shapes/shape_3d_1.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Shapes/thumbnail/shape_3d_1_thumbnail.png",
 		"collections": "Shape",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -6530,7 +6620,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app/Shapes/shape_3d_2.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Shapes/thumbnail/shape_3d_2_thumbnail.png",
 		"collections": "Shape",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -6539,7 +6629,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app/Shapes/shape_3d_3.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Shapes/thumbnail/shape_3d_3_thumbnail.png",
 		"collections": "Shape",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
@@ -6548,7 +6638,7 @@
 		"url": "https://pashapuma.github.io/Wallpapers_app/Shapes/shape_3d_4.png",
 		"thumbnail": "https://pashapuma.github.io/Wallpapers_app/Shapes/thumbnail/shape_3d_4_thumbnail.png",
 		"collections": "Shape",
-		"downloadable": false,
+		"downloadable": true,
 		"copyright": "PashaPuma Design"
 	},
 	{
