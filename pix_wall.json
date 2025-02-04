@@ -1,5 +1,113 @@
 [
 	{
+		"name": "Galaxy 1",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/galaxy_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/galaxy_1_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
+		"name": "Galaxy 2",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/galaxy_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/galaxy_2_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
+		"name": "Galaxy 3",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/galaxy_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/galaxy_3_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
+		"name": "Galaxy 4",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/galaxy_gradient_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/galaxy_gradient_1_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
+		"name": "Galaxy 5",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/galaxy_gradient_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/galaxy_gradient_2_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
+		"name": "Galaxy 6",
+		"author": "Samsung",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/galaxy_gradient_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/galaxy_gradient_3_thumbnail.png",
+		"collections": "Samsung",
+		"downloadable": true,
+		"copyright": "Samsung"
+	},
+	{
+		"name": "Xi Gradient 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/xi_gradient_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/xi_gradient_1_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Xi Gradient 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/xi_gradient_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/xi_gradient_2_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Xi Gradient 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/xi_gradient_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/xi_gradient_3_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Xi Gradient 4",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/xi_gradient_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/xi_gradient_4_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Xi Gradient 5",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/xi_gradient_5.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/xi_gradient_5_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Xi Gradient 6",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/xi_gradient_6.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/xi_gradient_6_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "XiColors 7",
 		"author": "Pashapuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Shapes/xi_colors_7.png",
