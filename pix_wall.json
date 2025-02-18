@@ -1,5 +1,77 @@
 [
 	{
+		"name": "Line Color 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/colors/line_color_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/colors/thumbnail/line_color_1_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Line Color 1 Dark",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/colors/line_color_1_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/colors/thumbnail/line_color_1_dark_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Line Color 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/colors/line_color_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/colors/thumbnail/line_color_2_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Line Color 2 Dark",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/colors/line_color_2_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/colors/thumbnail/line_color_2_dark_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Line Color 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/colors/line_color_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/colors/thumbnail/line_color_3_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Line Color 3 Dark",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/colors/line_color_3_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/colors/thumbnail/line_color_3_dark_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Line Color 4",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/colors/line_color_4.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/colors/thumbnail/line_color_4_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Line Color 4 Dark",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/colors/line_color_4_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/colors/thumbnail/line_color_4_dark_thumbnail.png",
+		"collections": "colors",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Gradient Angles 1",
 		"author": "Pashapuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/gradient_angles_1.png",
