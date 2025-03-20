@@ -1,5 +1,41 @@
 [
 	{
+		"name": "Pixel 9a 5",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel9a_5.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel9a_5_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9a 6",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel9a_6.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel9a_6_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9a 7",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel9a_7.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel9a_7_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
+		"name": "Pixel 9a 8",
+		"author": "Google",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel9a_8.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel9a_8_thumbnail.png",
+		"collections": "Pixel",
+		"downloadable": true,
+		"copyright": "Google"
+	},
+	{
 		"name": "Nothing Phone 3a 1",
 		"author": "PashaPuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/nth_1.png",
