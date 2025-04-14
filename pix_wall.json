@@ -1,5 +1,95 @@
 [
 	{
+		"name": "Android Studio Iguana",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/astudio_iguana.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/astudio_iguana_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Studio Iguana Dark",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/astudio_iguana_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/astudio_iguana_dark_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Studio Jellyfish",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/astudio_jellyfish.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/astudio_jellyfish_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Studio Jellyfish Dark",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/astudio_jellyfish_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/astudio_jellyfish_dark_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Studio Koala",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/astudio_koala.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/astudio_koala_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Studio Koala Dark",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/astudio_koala_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/astudio_koala_dark_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Studio Ladybug",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/astudio_ladybug.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/astudio_ladybug_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Studio Ladybug Dark",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/astudio_ladybug_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/astudio_ladybug_dark_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Studio Meerkat",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/astudio_meerkat.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/astudio_meerkat_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Studio Meerkat Dark",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/astudio_meerkat_dark.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/astudio_meerkat_dark_thumbnail.png",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "MaterialCH 1",
 		"author": "Pashapuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/MaterialNew/ch_material_1.png",
