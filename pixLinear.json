@@ -1,5 +1,65 @@
 [
   {
+    "name": "Cloud",
+    "author": "PashaPuma Design",
+    "url": "https://pashapuma.github.io/Wallpapers_app/cloud/cloud_2.png",
+    "thumbUrl": "https://pashapuma.github.io/Wallpapers_app/cloud/thumbnail/cloud_2_thumbnail.png"
+  },
+  {
+    "name": "Cloud 2",
+    "author": "PashaPuma Design",
+    "url": "https://pashapuma.github.io/Wallpapers_app/cloud/cloud_8.png",
+    "thumbUrl": "https://pashapuma.github.io/Wallpapers_app/cloud/thumbnail/cloud_8_thumbnail.png"
+  },
+  {
+    "name": "Pixel 4a",
+    "author": "PashaPuma Design",
+    "url": "https://pashapuma.github.io/Wallpapers_app/pixel4a/pixel4a_2.png",
+    "thumbUrl": "https://pashapuma.github.io/Wallpapers_app/pixel4a/thumbnail/pixel4a_2_thumbnail.png"
+  },
+  {
+    "name": "MaterialLines",
+    "author": "PashaPuma Design",
+    "url": "https://pashapuma.github.io/Wallpapers_app/material/a_pixMaterial_colors_1.png",
+    "thumbUrl": "https://pashapuma.github.io/Wallpapers_app/material/thumbnail/a_pixMaterial_colors_1_thumbnail.png"
+  },
+  {
+    "name": "MaterialColors",
+    "author": "PashaPuma Design",
+    "url": "https://pashapuma.github.io/Wallpapers_app/colors/colors_10.png",
+    "thumbUrl": "https://pashapuma.github.io/Wallpapers_app/colors/thumbnail/colors_10_thumbnail.png"
+  },
+  {
+    "name": "Material 2",
+    "author": "PashaPuma Design",
+    "url": "https://pashapuma.github.io/Wallpapers_app/material_2/m_y_1.png",
+    "thumbUrl": "https://pashapuma.github.io/Wallpapers_app/material_2/thumbnail/m_y_1_thumbnail.png"
+  },
+  {
+    "name": "MaterialCH",
+    "author": "PashaPuma Design",
+    "url": "https://pashapuma.github.io/Wallpapers_app_2/MaterialNew/ch_material_4.png",
+    "thumbUrl": "https://pashapuma.github.io/Wallpapers_app_2/MaterialNew/thumbnail/ch_material_4_thumbnail.png"
+  },
+  {
+    "name": "MaterialNew",
+    "author": "PashaPuma Design",
+    "url": "https://pashapuma.github.io/Wallpapers_app_2/MaterialNew/newmaterial_4.png",
+    "thumbUrl": "https://pashapuma.github.io/Wallpapers_app_2/MaterialNew/thumbnail/newmaterial_4_thumbnail.png"
+  },
+  {
+    "name": "Galaxy S25 Edge 2",
+    "author": "Samsung",
+    "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/s25_edge_8.jpg",
+    "thumbUrl": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/s25_edge_8_thumbnail.jpg"
+  },
+  {
+    "name": "Galaxy S25 Edge ",
+    "author": "Samsung",
+    "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/s25_edge_2.jpg",
+    "thumbUrl": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/s25_edge_2_thumbnail.jpg"
+  },
+  {
     "name": "Pix Linear Dark 21",
     "author": "PashaPuma Design",
     "url": "https://pashapuma.github.io/Wallpapers_app_2/PixLinearDark/galaxy_light_1.png",
