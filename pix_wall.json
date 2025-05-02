@@ -1,5 +1,59 @@
 [
 	{
+		"name": "Vanilla Ice Cream 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/ice_cream_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/ice_cream_1_thumbnail.png",
+		"collections": "Food",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Vanilla Ice Cream 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/ice_cream_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/ice_cream_2_thumbnail.png",
+		"collections": "Food",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Vanilla Ice Cream 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/ice_cream_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/ice_cream_3_thumbnail.png",
+		"collections": "Food",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "SMG Gradient 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/smg_gradient_1.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/smg_gradient_1_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "SMG Gradient 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/smg_gradient_2.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/smg_gradient_2_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "SMG Gradient 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/smg_gradient_3.png",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Gradient/thumbnail/smg_gradient_3_thumbnail.png",
+		"collections": "Gradient",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Pixel 10 Pro 1",
 		"author": "Google",
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_10_pro_1.jpg",
