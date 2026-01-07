@@ -1,5 +1,374 @@
 [
 	{
+        "name": "Nothing OS 4 1",
+        "author": "Nothing",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/nothing_os_4_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/thumbnail/nothing_os_4_1_thumbnail.jpg",
+        "collections": "Nothing",
+        "downloadable": true,
+        "copyright": "Nothing"
+    },
+    {
+        "name": "Nothing OS 4 2",
+        "author": "Nothing",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/nothing_os_4_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/thumbnail/nothing_os_4_2_thumbnail.jpg",
+        "collections": "Nothing",
+        "downloadable": true,
+        "copyright": "Nothing"
+    },
+    {
+        "name": "Nothing OS 4 3",
+        "author": "Nothing",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/nothing_os_4_3.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/thumbnail/nothing_os_4_3_thumbnail.jpg",
+        "collections": "Nothing",
+        "downloadable": true,
+        "copyright": "Nothing"
+    },
+    {
+        "name": "Nothing OS 4 4",
+        "author": "Nothing",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/nothing_os_4_4.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/thumbnail/nothing_os_4_4_thumbnail.jpg",
+        "collections": "Nothing",
+        "downloadable": true,
+        "copyright": "Nothing"
+    },
+    {
+        "name": "Nothing OS 4 5",
+        "author": "Nothing",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/nothing_os_4_5.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/thumbnail/nothing_os_4_5_thumbnail.jpg",
+        "collections": "Nothing",
+        "downloadable": true,
+        "copyright": "Nothing"
+    },
+    {
+        "name": "Nothing OS 4 6",
+        "author": "Nothing",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/nothing_os_4_6.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/thumbnail/nothing_os_4_6_thumbnail.jpg",
+        "collections": "Nothing",
+        "downloadable": true,
+        "copyright": "Nothing"
+    },
+    {
+        "name": "Galaxy Z Tri Fold",
+        "author": "Samsung",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/galaxy_z_tri_fold.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/galaxy_z_tri_fold_thumbnail.jpg",
+        "collections": "Samsung",
+        "downloadable": true,
+        "copyright": "Samsung"
+    },
+    {
+        "name": "Galaxy Z Tri Fold 2",
+        "author": "Samsung",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/galaxy_z_tri_fold_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/galaxy_z_tri_fold_2_thumbnail.jpg",
+        "collections": "Samsung",
+        "downloadable": true,
+        "copyright": "Samsung"
+    },
+    {
+        "name": "Honor Win 1",
+        "author": "Honor",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/honor_win_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/honor_win_1_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Honor"
+    },
+    {
+        "name": "Honor Win 2",
+        "author": "Honor",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/honor_win_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/honor_win_2_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Honor"
+    },
+    {
+        "name": "Moto Signature 1",
+        "author": "Moto",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/moto_signature_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/moto_signature_1_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Moto"
+    },
+    {
+        "name": "Moto Signature 2",
+        "author": "Moto",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/moto_signature_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/moto_signature_2_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Moto"
+    },
+    {
+        "name": "Moto Signature 3",
+        "author": "Moto",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/moto_signature_3.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/moto_signature_3_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Moto"
+    },
+    {
+        "name": "Moto Signature 4",
+        "author": "Moto",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/moto_signature_4.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/moto_signature_4_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Moto"
+    },
+    {
+        "name": "Nubia M153 1",
+        "author": "Nubia",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/nubia_m153_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/nubia_m153_1_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Nubia"
+    },
+    {
+        "name": "Nubia M153 2",
+        "author": "Nubia",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/nubia_m153_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/nubia_m153_2_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Nubia"
+    },
+    {
+        "name": "Nubia M153 3",
+        "author": "Nubia",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/nubia_m153_3.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/nubia_m153_3_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Nubia"
+    },
+    {
+        "name": "Nubia M153 4",
+        "author": "Nubia",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/nubia_m153_4.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/nubia_m153_4_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Nubia"
+    },
+    {
+        "name": "Nubia M153 5",
+        "author": "Nubia",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/nubia_m153_5.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/nubia_m153_5_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Nubia"
+    },
+    {
+        "name": "Nubia M153 6",
+        "author": "Nubia",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/nubia_m153_6.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/nubia_m153_6_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Nubia"
+    },
+    {
+        "name": "Nubia M153 7",
+        "author": "Nubia",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/nubia_m153_7.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/nubia_m153_7_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Nubia"
+    },
+    {
+        "name": "Nubia M153 8",
+        "author": "Nubia",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/nubia_m153_8.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/nubia_m153_8_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Nubia"
+    },
+    {
+        "name": "Nubia M153 9",
+        "author": "Nubia",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/nubia_m153_9.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/nubia_m153_9_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Nubia"
+    },
+    {
+        "name": "Nubia M153 10",
+        "author": "Nubia",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/nubia_m153_10.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/nubia_m153_10_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Nubia"
+    },
+    {
+        "name": "Nubia Red Magic 11 1",
+        "author": "Nubia",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/nubia_red_magic_11_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/nubia_red_magic_11_1_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Nubia"
+    },
+    {
+        "name": "Nubia Red Magic 11 2",
+        "author": "Nubia",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/nubia_red_magic_11_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/nubia_red_magic_11_2_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Nubia"
+    },
+    {
+        "name": "Nubia Red Magic 11 3",
+        "author": "Nubia",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/nubia_red_magic_11_3.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/nubia_red_magic_11_3_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Nubia"
+    },
+    {
+        "name": "Nubia Red Magic 11 4",
+        "author": "Nubia",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/nubia_red_magic_11_4.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/nubia_red_magic_11_4_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Nubia"
+    },
+    {
+        "name": "Nubia Red Magic 11 5",
+        "author": "Nubia",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/nubia_red_magic_11_5.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/nubia_red_magic_11_5_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Nubia"
+    },
+    {
+        "name": "Nubia Red Magic 11 6",
+        "author": "Nubia",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/nubia_red_magic_11_6.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/nubia_red_magic_11_6_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Nubia"
+    },
+    {
+        "name": "Realme 16 Pro 1",
+        "author": "Realme",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/realme_16_pro_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/realme_16_pro_1_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Realme"
+    },
+    {
+        "name": "Realme 16 Pro 2",
+        "author": "Realme",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/realme_16_pro_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/realme_16_pro_2_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Realme"
+    },
+    {
+        "name": "Xiaomi 17 Ultra 1",
+        "author": "Xiaomi",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/xiaomi_17_ultra_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/xiaomi_17_ultra_1_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi 17 Ultra 2",
+        "author": "Xiaomi",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/xiaomi_17_ultra_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/xiaomi_17_ultra_2_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi 17 Ultra 3",
+        "author": "Xiaomi",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/xiaomi_17_ultra_3.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/xiaomi_17_ultra_3_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi 17 Ultra 4",
+        "author": "Xiaomi",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/xiaomi_17_ultra_4.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/xiaomi_17_ultra_4_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Xiaomi"
+    },
+    {
+        "name": "Light 1",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Light/light_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Light/thumbnail/light_1_thumbnail.jpg",
+        "collections": "Light",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+    {
+        "name": "Light 2",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Light/light_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Light/thumbnail/light_2_thumbnail.jpg",
+        "collections": "Light",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+    {
+        "name": "Light 3",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Light/light_3.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Light/thumbnail/light_3_thumbnail.jpg",
+        "collections": "Light",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+    {
+        "name": "Light 4",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Light/light_4.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Light/thumbnail/light_4_thumbnail.jpg",
+        "collections": "Light",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+    {
+        "name": "Light 5",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Light/light_5.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Light/thumbnail/light_5_thumbnail.jpg",
+        "collections": "Light",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+	{
         "name": "Galaxy S26 1",
         "author": "Samsung",
         "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/galaxy_s26_1.jpg",
