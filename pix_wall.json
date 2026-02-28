@@ -1,5 +1,131 @@
 [
 	{
+        "name": "Tablet Glass 1",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Glassy/tablet_glass_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Glassy/thumbnail/tablet_glass_1_thumbnail.jpg",
+        "collections": "Glassy",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+	{
+        "name": "Tablet Glass 2",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Glassy/tablet_glass_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Glassy/thumbnail/tablet_glass_2_thumbnail.jpg",
+        "collections": "Glassy",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+	{
+        "name": "Tablet Glass 3",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Glassy/tablet_glass_3.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Glassy/thumbnail/tablet_glass_3_thumbnail.jpg",
+        "collections": "Glassy",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+	{
+        "name": "Tablet Glass 4",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Glassy/tablet_glass_4.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Glassy/thumbnail/tablet_glass_4_thumbnail.jpg",
+        "collections": "Glassy",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+	{
+        "name": "Honor Magic 8 1",
+        "author": "Honor",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/honor_magic_8_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/honor_magic_8_1_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Honor"
+    },
+	{
+        "name": "Honor Magic 8 2",
+        "author": "Honor",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/honor_magic_8_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/honor_magic_8_2_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Honor"
+    },
+	{
+        "name": "Honor Magic 8 3",
+        "author": "Honor",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/honor_magic_8_3.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/honor_magic_8_3_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Honor"
+    },
+	{
+        "name": "Honor Magic 8 4",
+        "author": "Honor",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/honor_magic_8_4.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/honor_magic_8_4_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Honor"
+    },
+	{
+        "name": "Iqoo Neo 11 1",
+        "author": "Iqoo",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/iqoo_neo_11_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/iqoo_neo_11_1_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Iqoo"
+    },
+	{
+        "name": "Iqoo Neo 11 2",
+        "author": "Iqoo",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/iqoo_neo_11_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/iqoo_neo_11_2_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Iqoo"
+    },
+	{
+        "name": "Iqoo Neo 11 3",
+        "author": "Iqoo",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/iqoo_neo_11_3.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/iqoo_neo_11_3_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Iqoo"
+    },
+	{
+        "name": "Iqoo Neo 11 4",
+        "author": "Iqoo",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/iqoo_neo_11_4.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/iqoo_neo_11_4_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Iqoo"
+    },
+	{
+        "name": "Iqoo Neo 11 5",
+        "author": "Iqoo",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/iqoo_neo_11_5.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/iqoo_neo_11_5_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Iqoo"
+    },
+	{
+        "name": "Iqoo Neo 11 6",
+        "author": "Iqoo",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/iqoo_neo_11_6.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Other_devices/thumbnail/iqoo_neo_11_6_thumbnail.jpg",
+        "collections": "OtherDevice",
+        "downloadable": true,
+        "copyright": "Iqoo"
+    },
+	{
         "name": "Tablet Colors 1",
         "author": "PashaPuma",
         "url": "https://pashapuma.github.io/Wallpapers_app_2/colors/tablet_colors_1.jpg",
