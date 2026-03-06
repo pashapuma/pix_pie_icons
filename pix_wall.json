@@ -1,5 +1,41 @@
 [
 	{
+        "name": "Wood Table 1",
+        "author": "pashapuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Textures/wood_table_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Textures/thumbnail/wood_table_1_thumbnail.jpg",
+        "collections": "Wooden",
+        "downloadable": true,
+        "copyright": "PashaPuma Design"
+    },
+	{
+        "name": "Wood Table 2",
+        "author": "pashapuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Textures/wood_table_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Textures/thumbnail/wood_table_2_thumbnail.jpg",
+        "collections": "Wooden",
+        "downloadable": true,
+        "copyright": "PashaPuma Design"
+    },
+	{
+        "name": "Wood Table 3",
+        "author": "pashapuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Textures/wood_table_3.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Textures/thumbnail/wood_table_3_thumbnail.jpg",
+        "collections": "Wooden",
+        "downloadable": true,
+        "copyright": "PashaPuma Design"
+    },
+	{
+        "name": "Wood Table 4",
+        "author": "pashapuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Textures/wood_table_4.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Textures/thumbnail/wood_table_4_thumbnail.jpg",
+        "collections": "Wooden",
+        "downloadable": true,
+        "copyright": "PashaPuma Design"
+    },
+	{
         "name": "Nothing 4a 1",
         "author": "Nothing",
         "url": "https://pashapuma.github.io/Wallpapers_app_2/Nothing/nothing_4a_1.jpg",
