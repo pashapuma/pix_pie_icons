@@ -1,5 +1,149 @@
 [
 	{
+		"name": "Android Luminous Wallpaper 5",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/android_luminous_5.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/android_luminous_5_thumbnail.jpg",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Luminous Wallpaper 6",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/android_luminous_6.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/android_luminous_6_thumbnail.jpg",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Luminous Wallpaper 7",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/android_luminous_7.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/android_luminous_7_thumbnail.jpg",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Luminous Wallpaper 8",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/android_luminous_8.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/android_luminous_8_thumbnail.jpg",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Luminous Wallpaper 9",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/android_luminous_9.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/android_luminous_9_thumbnail.jpg",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Luminous Wallpaper 10",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/android_luminous_10.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/android_luminous_10_thumbnail.jpg",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Luminous Wallpaper 11",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/android_luminous_11.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/android_luminous_11_thumbnail.jpg",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Luminous 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/android_luminous_1.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/android_luminous_1_thumbnail.jpg",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Luminous 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/android_luminous_2.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/android_luminous_2_thumbnail.jpg",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Luminous 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/android_luminous_3.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/android_luminous_3_thumbnail.jpg",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Luminous 4",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/android_luminous_4.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/android_luminous_4_thumbnail.jpg",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Luminous 12",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/android_luminous_12.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/android_luminous_12_thumbnail.jpg",
+		"collections": "Android",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Luminous Blurred 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/android_luminous_blurred_1.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/android_luminous_blurred_1_thumbnail.jpg",
+		"collections": "Blurred",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Luminous Blurred 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/android_luminous_blurred_2.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/android_luminous_blurred_2_thumbnail.jpg",
+		"collections": "Blurred",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Luminous Blurred 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/android_luminous_blurred_3.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/android_luminous_blurred_3_thumbnail.jpg",
+		"collections": "Blurred",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Android Luminous Blurred 4",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/android_luminous_blurred_4.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/android/thumbnail/android_luminous_blurred_4_thumbnail.jpg",
+		"collections": "Blurred",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
 		"name": "Android Show 1",
 		"author": "Pashapuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/android_show_1.jpg",
