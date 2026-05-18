@@ -1,5 +1,77 @@
 [
 	{
+        "name": "Aluminium OS 1",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/aluminium_os_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/aluminium_os_1_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google"
+    },
+	{
+        "name": "Aluminium OS 2",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/aluminium_os_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/aluminium_os_2_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google"
+    },
+	{
+        "name": "Aluminium OS 3",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/aluminium_os_3.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/aluminium_os_3_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google"
+    },
+	{
+        "name": "Aluminium OS 4",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/aluminium_os_4.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/aluminium_os_4_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google"
+    },
+	{
+        "name": "Pixel 11 Pro Fold 1",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_11_pro_fold_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_11_pro_fold_1_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google"
+    },
+	{
+        "name": "Pixel 11 Pro Fold 2",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_11_pro_fold_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_11_pro_fold_2_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google"
+    },
+	{
+        "name": "Pixel 11 Pro Fold 3",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_11_pro_fold_3.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_11_pro_fold_3_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google"
+    },
+	{
+        "name": "Pixel 11 Pro Fold 4",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_11_pro_fold_4.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_11_pro_fold_4_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google"
+    },
+	{
 		"name": "Android Luminous Wallpaper 13",
 		"author": "Pashapuma",
 		"url": "https://pashapuma.github.io/Wallpapers_app_2/android/android_luminous_13.jpg",
