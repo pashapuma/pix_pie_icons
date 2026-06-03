@@ -1,5 +1,149 @@
 [
 	{
+        "name": "Pixel 11 Fuchsia 1",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/Pixel_11_fuchsia_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/Pixel_11_fuchsia_1_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google Pixel"
+    },
+    {
+        "name": "Pixel 11 Fuchsia 2",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/Pixel_11_fuchsia_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/Pixel_11_fuchsia_2_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google Pixel"
+    },
+    {
+        "name": "Pixel 11 Midnight Haze 1",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/Pixel_11_midnight_haze_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/Pixel_11_midnight_haze_1_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google Pixel"
+    },
+    {
+        "name": "Pixel 11 Midnight Haze 2",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/Pixel_11_midnight_haze_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/Pixel_11_midnight_haze_2_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google Pixel"
+    },
+    {
+        "name": "Pixel 11 Moss 1",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/Pixel_11_moss_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/Pixel_11_moss_1_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google Pixel"
+    },
+    {
+        "name": "Pixel 11 Moss 2",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/Pixel_11_moss_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/Pixel_11_moss_2_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google Pixel"
+    },
+    {
+        "name": "Pixel 11 Pro Dune 1",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_11_pro_dune_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_11_pro_dune_1_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google Pixel"
+    },
+    {
+        "name": "Pixel 11 Pro Dune 2",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_11_pro_dune_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_11_pro_dune_2_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google Pixel"
+    },
+    {
+        "name": "Pixel 11 Pro Fog 1",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_11_pro_fog_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_11_pro_fog_1_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google Pixel"
+    },
+    {
+        "name": "Pixel 11 Pro Fog 2",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_11_pro_fog_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_11_pro_fog_2_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google Pixel"
+    },
+    {
+        "name": "Pixel 11 Pro Midnight Haze 1",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_11_pro_midnight_haze_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_11_pro_midnight_haze_1_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google Pixel"
+    },
+    {
+        "name": "Pixel 11 Pro Midnight Haze 2",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_11_pro_midnight_haze_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_11_pro_midnight_haze_2_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google Pixel"
+    },
+    {
+        "name": "Pixel 11 Pro Pine 1",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_11_pro_pine_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_11_pro_pine_1_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google Pixel"
+    },
+    {
+        "name": "Pixel 11 Pro Pine 2",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/pixel_11_pro_pine_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/pixel_11_pro_pine_2_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google Pixel"
+    },
+    {
+        "name": "Pixel 11 Sterling 1",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/Pixel_11_sterling_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/Pixel_11_sterling_1_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google Pixel"
+    },
+    {
+        "name": "Pixel 11 Sterling 2",
+        "author": "Google",
+        "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/Pixel_11_sterling_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/thumbnail/Pixel_11_sterling_2_thumbnail.jpg",
+        "collections": "Pixel",
+        "downloadable": true,
+        "copyright": "Google Pixel"
+    },
+	{
         "name": "Aluminium OS 1",
         "author": "Google",
         "url": "https://pashapuma.github.io/Wallpapers_app_2/Pixel/aluminium_os_1.jpg",
