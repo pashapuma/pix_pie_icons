@@ -1,5 +1,131 @@
 [
 	{
+        "name": "Hyper Os 4 Wallpaper 1",
+        "author": "HyperOS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/hyper_os_4_wallpaper_1.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/hyper_os_4_wallpaper_1_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "HyperOS"
+    },
+    {
+        "name": "Hyper Os 4 Wallpaper 2",
+        "author": "HyperOS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/hyper_os_4_wallpaper_2.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/hyper_os_4_wallpaper_2_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "HyperOS"
+    },
+    {
+        "name": "Hyper Os 4 Wallpaper 3",
+        "author": "HyperOS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/hyper_os_4_wallpaper_3.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/hyper_os_4_wallpaper_3_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "HyperOS"
+    },
+    {
+        "name": "Hyper Os 4 Wallpaper 4",
+        "author": "HyperOS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/hyper_os_4_wallpaper_4.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/hyper_os_4_wallpaper_4_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "HyperOS"
+    },
+    {
+        "name": "Motorola Edge 70 Max Wallpaper 1",
+        "author": "Motorola",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/motorola_edge_70_max_wallpaper_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/motorola_edge_70_max_wallpaper_1_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Motorola"
+    },
+    {
+        "name": "Motorola Edge 70 Max Wallpaper 2",
+        "author": "Motorola",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/motorola_edge_70_max_wallpaper_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/motorola_edge_70_max_wallpaper_2_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Motorola"
+    },
+    {
+        "name": "Motorola Edge 70 Max Wallpaper 3",
+        "author": "Motorola",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/motorola_edge_70_max_wallpaper_3.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/motorola_edge_70_max_wallpaper_3_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Motorola"
+    },
+    {
+        "name": "Motorola Edge 70 Max Wallpaper 4",
+        "author": "Motorola",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/motorola_edge_70_max_wallpaper_4.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/motorola_edge_70_max_wallpaper_4_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Motorola"
+    },
+    {
+        "name": "Motorola Edge 70 Max Wallpaper 5",
+        "author": "Motorola",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/motorola_edge_70_max_wallpaper_5.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/motorola_edge_70_max_wallpaper_5_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Motorola"
+    },
+    {
+        "name": "Motorola Edge 70 Max Wallpaper 6",
+        "author": "Motorola",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/motorola_edge_70_max_wallpaper_6.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/motorola_edge_70_max_wallpaper_6_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Motorola"
+    },
+    {
+        "name": "Sharp Aquos Sense9 Wallpaper 1",
+        "author": "Sharp",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/sharp_aquos_sense9_wallpaper_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/sharp_aquos_sense9_wallpaper_1_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Sharp"
+    },
+    {
+        "name": "Sharp Aquos Sense9 Wallpaper 2",
+        "author": "Sharp",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/sharp_aquos_sense9_wallpaper_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/sharp_aquos_sense9_wallpaper_2_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Sharp"
+    },
+    {
+        "name": "Sharp Aquos Sense9 Wallpaper 3",
+        "author": "Sharp",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/sharp_aquos_sense9_wallpaper_3.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/sharp_aquos_sense9_wallpaper_3_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Sharp"
+    },
+    {
+        "name": "Sharp Aquos Sense9 Wallpaper 4",
+        "author": "Sharp",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/sharp_aquos_sense9_wallpaper_4.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/sharp_aquos_sense9_wallpaper_4_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Sharp"
+    },
+	{
         "name": "Sky Gradient Wall 1",
         "author": "PashaPuma Design",
         "url": "https://pashapuma.github.io/Wallpapers_app_3/Gradient/sky_gradient_wall_1.jpg",
