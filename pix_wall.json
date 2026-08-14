@@ -1,5 +1,113 @@
 [
 	{
+		"name": "G Shapes 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_3/Shape/g_shapes_1.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Shape/thumbnail/g_shapes_1_thumbnail.jpg",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "G Shapes 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_3/Shape/g_shapes_2.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Shape/thumbnail/g_shapes_2_thumbnail.jpg",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "G Shapes 3",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_3/Shape/g_shapes_3.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Shape/thumbnail/g_shapes_3_thumbnail.jpg",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "G Shapes 4",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_3/Shape/g_shapes_4.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Shape/thumbnail/g_shapes_4_thumbnail.jpg",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "G Lines 1",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_3/Shape/g_shapes_5.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Shape/thumbnail/g_shapes_5_thumbnail.jpg",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "G Lines 2",
+		"author": "Pashapuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_3/Shape/g_shapes_6.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Shape/thumbnail/g_shapes_6_thumbnail.jpg",
+		"collections": "Shape",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+        "name": "G Blurry 7",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Blur/g_blurred_7.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Blur/thumbnail/g_blurred_7_thumbnail.jpg",
+        "collections": "Blurred",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+	{
+        "name": "G Blurry 8",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Blur/g_blurred_8.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Blur/thumbnail/g_blurred_8_thumbnail.jpg",
+        "collections": "Blurred",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+	{
+        "name": "G Blurry 9",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Blur/g_blurred_9.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Blur/thumbnail/g_blurred_9_thumbnail.jpg",
+        "collections": "Blurred",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+	{
+        "name": "G Blurry 10",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Blur/g_blurred_10.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Blur/thumbnail/g_blurred_10_thumbnail.jpg",
+        "collections": "Blurred",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+	{
+        "name": "G Blurry 11",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Blur/g_blurred_11.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Blur/thumbnail/g_blurred_11_thumbnail.jpg",
+        "collections": "Blurred",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+	{
+        "name": "G Blurry 12",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Blur/g_blurred_12.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Blur/thumbnail/g_blurred_12_thumbnail.jpg",
+        "collections": "Blurred",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+	{
         "name": "Hyper Os 4 Wallpaper 1",
         "author": "HyperOS",
         "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/hyper_os_4_wallpaper_1.png",
