@@ -1,5 +1,455 @@
 [
 	{
+        "name": "Iphone 18 Pro Wallpaper 9",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/iPhone_18_Pro_wallpaper_9.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/iPhone_18_Pro_wallpaper_9_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+    {
+        "name": "Iphone 18 Pro Wallpaper 10",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/iPhone_18_Pro_wallpaper_10.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/iPhone_18_Pro_wallpaper_10_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+    {
+        "name": "Iphone 18 Pro Wallpaper 11",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/iPhone_18_Pro_wallpaper_11.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/iPhone_18_Pro_wallpaper_11_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+    {
+        "name": "Iphone 18 Pro Wallpaper 12",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/iPhone_18_Pro_wallpaper_12.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/iPhone_18_Pro_wallpaper_12_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+    {
+        "name": "Iphone 18 Pro Wallpaper 13",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/iPhone_18_Pro_wallpaper_13.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/iPhone_18_Pro_wallpaper_13_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+    {
+        "name": "Iphone 18 Pro Wallpaper 14",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/iPhone_18_Pro_wallpaper_14.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/iPhone_18_Pro_wallpaper_14_thumbnail.jpg",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 1",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_1.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_1_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 2",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_2.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_2_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 3",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_3.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_3_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 4",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_4.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_4_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 5",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_5.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_5_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 6",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_6.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_6_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 7",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_7.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_7_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 8",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_8.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_8_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 9",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_9.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_9_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 10",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_10.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_10_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 11",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_11.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_11_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 12",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_12.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_12_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 13",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_13.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_13_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 14",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_14.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_14_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 15",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_15.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_15_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 16",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_16.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_16_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 17",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_17.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_17_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 18",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_18.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_18_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 19",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_19.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_19_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 20",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_20.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_20_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 21",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_21.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_21_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 22",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_22.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_22_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 23",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_23.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_23_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 24",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_24.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_24_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 25",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_25.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_25_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 26",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_26.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_26_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 27",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_27.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_27_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 28",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_28.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_28_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 29",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_29.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_29_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 30",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_30.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_30_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 31",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_31.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_31_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Origin OS 7 Wallpaper 32",
+        "author": "Origin OS",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/originOS_7_wallpaper_32.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/originOS_7_wallpaper_32_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Origin OS"
+    },
+    {
+        "name": "Sony Xperia 10 Wallpaper 1",
+        "author": "Sony",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/sony_xperia_10_wallpaper_1.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/sony_xperia_10_wallpaper_1_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Sony"
+    },
+    {
+        "name": "Sony Xperia 10 Wallpaper 2",
+        "author": "Sony",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/sony_xperia_10_wallpaper_2.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/sony_xperia_10_wallpaper_2_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Sony"
+    },
+    {
+        "name": "Sony Xperia 10 Wallpaper 3",
+        "author": "Sony",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/sony_xperia_10_wallpaper_3.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/sony_xperia_10_wallpaper_3_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Sony"
+    },
+    {
+        "name": "Sony Xperia 10 Wallpaper 4",
+        "author": "Sony",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/sony_xperia_10_wallpaper_4.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/sony_xperia_10_wallpaper_4_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Sony"
+    },
+    {
+        "name": "Sony Xperia 10 Wallpaper 5",
+        "author": "Sony",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/sony_xperia_10_wallpaper_5.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/sony_xperia_10_wallpaper_5_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Sony"
+    },
+    {
+        "name": "Sony Xperia 10 Wallpaper 6",
+        "author": "Sony",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/sony_xperia_10_wallpaper_6.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/sony_xperia_10_wallpaper_6_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Sony"
+    },
+    {
+        "name": "Sony Xperia 10 Wallpaper 7",
+        "author": "Sony",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/sony_xperia_10_wallpaper_7.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/sony_xperia_10_wallpaper_7_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Sony"
+    },
+    {
+        "name": "Sony Xperia 10 Wallpaper 8",
+        "author": "Sony",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/sony_xperia_10_wallpaper_8.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/sony_xperia_10_wallpaper_8_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Sony"
+    },
+    {
+        "name": "Sony Xperia 10 Wallpaper 9",
+        "author": "Sony",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/sony_xperia_10_wallpaper_9.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/sony_xperia_10_wallpaper_9_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Sony"
+    },
+    {
+        "name": "Sony Xperia 10 Wallpaper 10",
+        "author": "Sony",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/sony_xperia_10_wallpaper_10.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/sony_xperia_10_wallpaper_10_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Sony"
+    },
+    {
+        "name": "Sony Xperia 10 Wallpaper 11",
+        "author": "Sony",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/sony_xperia_10_wallpaper_11.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/sony_xperia_10_wallpaper_11_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Sony"
+    },
+    {
+        "name": "Sony Xperia 10 Wallpaper 12",
+        "author": "Sony",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/sony_xperia_10_wallpaper_12.png",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/thumbnail/sony_xperia_10_wallpaper_12_thumbnail.png",
+        "collections": "OtherDevices",
+        "downloadable": true,
+        "copyright": "Sony"
+    },
+	{
         "name": "iPhone 18 Pro Wallpaper 1",
         "author": "Apple",
         "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/iPhone_18_Pro_wallpaper_1.jpg",
