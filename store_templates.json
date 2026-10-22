@@ -1,9 +1,15 @@
 [
   {
-    "id": "Pixel_11_Test",
-    "name": "Pixel 11 Test",
+    "id": "Pixel_10_Pro_XL_Test",
+    "name": "Pixel 10 Pro XL Test",
     "author": "Pashapuma",
     "isPremium": true
+  },
+  {
+    "id": "Pixel_11_Test_Free",
+    "name": "Pixel 11 Test Free",
+    "author": "Pashapuma",
+    "isPremium": false
   },
   {
     "id": "Pixel_11_Test_Free",
