@@ -1,1 +1,14 @@
-
+[
+  {
+    "id": "Pixel_11_Test",
+    "name": "Pixel 11 Test",
+    "author": "Pashapuma",
+    "isPremium": true
+  },
+  {
+    "id": "Pixel_11_Test_Free",
+    "name": "Pixel 11 Test Free",
+    "author": "Pashapuma",
+    "isPremium": false
+  }
+]
