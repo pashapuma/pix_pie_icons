@@ -12,9 +12,9 @@
     "isPremium": false
   },
   {
-    "id": "Pixel_11_Test_Free",
-    "name": "Pixel 11 Test Free",
+    "id": "Pixel_11_Test",
+    "name": "Pixel 11 Test",
     "author": "Pashapuma",
-    "isPremium": false
+    "isPremium": true
   }
 ]
