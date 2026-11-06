@@ -1,20 +1,50 @@
 [
   {
-    "id": "Pixel_10_Pro_XL_Test",
-    "name": "Pixel 10 Pro XL Test",
-    "author": "Pashapuma",
+    "id": "Pixel_10_Pro_XL",
+    "name": "Pixel_10_Pro_XL",
+    "author": "Hishoot3i",
     "isPremium": true
   },
   {
-    "id": "Pixel_11_Test_Free",
-    "name": "Pixel 11 Test Free",
-    "author": "Pashapuma",
+    "id": "Pixel_11_Glow",
+    "name": "Pixel_11_Glow",
+    "author": "Hishoot3i",
+    "isPremium": true
+  },
+  {
+    "id": "Pixel_10",
+    "name": "Pixel_10",
+    "author": "Hishoot3i",
     "isPremium": false
   },
   {
-    "id": "Pixel_11_Test",
-    "name": "Pixel 11 Test",
-    "author": "Pashapuma",
-    "isPremium": true
+    "id": "Pixel_11_Blue",
+    "name": "Pixel_11_Blue",
+    "author": "Hishoot3i",
+    "isPremium": false
+  },
+  {
+    "id": "Pixel_11_Gray",
+    "name": "Pixel_11_Gray",
+    "author": "Hishoot3i",
+    "isPremium": false
+  },
+  {
+    "id": "Pixel_11_Green",
+    "name": "Pixel_11_Green",
+    "author": "Hishoot3i",
+    "isPremium": false
+  },
+  {
+    "id": "Pixel_11_Red",
+    "name": "Pixel_11_Red",
+    "author": "Hishoot3i",
+    "isPremium": false
+  },
+  {
+    "id": "Nothing_3a_blue",
+    "name": "Nothing_3a_blue",
+    "author": "Hishoot3i",
+    "isPremium": false
   }
 ]
