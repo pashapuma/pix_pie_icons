@@ -18,6 +18,30 @@
     "isPremium": false
   },
   {
+    "id": "Nothing_3a_blue",
+    "name": "Nothing_3a_blue",
+    "author": "Hishoot3i",
+    "isPremium": false
+  },
+  {
+    "id": "Pixel_fold",
+    "name": "Pixel_fold",
+    "author": "Hishoot3i",
+    "isPremium": false
+  },
+  {
+    "id": "PixelBookGo",
+    "name": "PixelBookGo",
+    "author": "Hishoot3i",
+    "isPremium": false
+  },
+  {
+    "id": "PixelBookGo_Grey",
+    "name": "PixelBookGo_Grey",
+    "author": "Hishoot3i",
+    "isPremium": false
+  },
+  {
     "id": "Pixel_11_Blue",
     "name": "Pixel_11_Blue",
     "author": "Hishoot3i",
@@ -38,12 +62,6 @@
   {
     "id": "Pixel_11_Red",
     "name": "Pixel_11_Red",
-    "author": "Hishoot3i",
-    "isPremium": false
-  },
-  {
-    "id": "Nothing_3a_blue",
-    "name": "Nothing_3a_blue",
     "author": "Hishoot3i",
     "isPremium": false
   }
