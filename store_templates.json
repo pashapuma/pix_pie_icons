@@ -1,5 +1,23 @@
 [
   {
+    "id": "Hishoot3i_Template",
+    "name": "Hishoot3i_Template",
+    "author": "Hishoot3i",
+    "isPremium": false
+  },
+  {
+    "id": "Hishoot3i_Glow",
+    "name": "Hishoot3i_Glow",
+    "author": "Hishoot3i",
+    "isPremium": true
+  },
+  {
+    "id": "Hishoot3i_Glow_Light",
+    "name": "Hishoot3i_Glow_Light",
+    "author": "Hishoot3i",
+    "isPremium": true
+  },
+  {
     "id": "Pixel_9_Pro",
     "name": "Pixel_9_Pro",
     "author": "Hishoot3i",
