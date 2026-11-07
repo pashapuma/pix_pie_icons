@@ -1,5 +1,23 @@
 [
   {
+    "id": "Pixel_9_Pro",
+    "name": "Pixel_9_Pro",
+    "author": "Hishoot3i",
+    "isPremium": true
+  },
+  {
+    "id": "Pixel_9_Pro_Box",
+    "name": "Pixel_9_Pro_Box",
+    "author": "Hishoot3i",
+    "isPremium": false
+  },
+  {
+    "id": "Pixel_9_Pro_Left",
+    "name": "Pixel_9_Pro_Left",
+    "author": "Hishoot3i",
+    "isPremium": false
+  },
+  {
     "id": "Pixel_10_Pro_XL",
     "name": "Pixel_10_Pro_XL",
     "author": "Hishoot3i",
@@ -20,6 +38,12 @@
   {
     "id": "Nothing_3a_blue",
     "name": "Nothing_3a_blue",
+    "author": "Hishoot3i",
+    "isPremium": false
+  },
+  {
+    "id": "Galaxy_S25_Ultra",
+    "name": "Galaxy_S25_Ultra",
     "author": "Hishoot3i",
     "isPremium": false
   },
