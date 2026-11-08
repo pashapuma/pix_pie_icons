@@ -18,6 +18,18 @@
     "isPremium": true
   },
   {
+    "id": "Hishoot3i_Lying",
+    "name": "Hishoot3i_Lying",
+    "author": "Hishoot3i",
+    "isPremium": false
+  },
+  {
+    "id": "Hishoot3i_Lying_Glow",
+    "name": "Hishoot3i_Lying_Glow",
+    "author": "Hishoot3i",
+    "isPremium": false
+  },
+  {
     "id": "Pixel_9_Pro",
     "name": "Pixel_9_Pro",
     "author": "Hishoot3i",
