@@ -1,5 +1,17 @@
 [
   {
+    "id": "Pixel_11_Fold",
+    "name": "Pixel_11_Fold",
+    "author": "Hishoot3i",
+    "isPremium": false
+  },
+  {
+    "id": "Pixel_11_Fold_Glow",
+    "name": "Pixel_11_Fold_Glow",
+    "author": "Hishoot3i",
+    "isPremium": true
+  },
+  {
     "id": "Hishoot3i_Template",
     "name": "Hishoot3i_Template",
     "author": "Hishoot3i",
