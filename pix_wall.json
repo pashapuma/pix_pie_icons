@@ -1,5 +1,41 @@
 [
 	{
+        "name": "Android Dot 1",
+        "author": "pashapuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Gradient/android_dot_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Gradient/thumbnail/android_dot_1_thumbnail.jpg",
+        "collections": "Textures",
+        "downloadable": true,
+        "copyright": "PashaPuma Design"
+    },
+	{
+        "name": "Android Dot 2",
+        "author": "pashapuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Gradient/android_dot_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Gradient/thumbnail/android_dot_2_thumbnail.jpg",
+        "collections": "Textures",
+        "downloadable": true,
+        "copyright": "PashaPuma Design"
+    },
+	{
+        "name": "Wallpaper Dot 1",
+        "author": "pashapuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Gradient/wallpaper_dot_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Gradient/thumbnail/wallpaper_dot_1_thumbnail.jpg",
+        "collections": "Textures",
+        "downloadable": true,
+        "copyright": "PashaPuma Design"
+    },
+	{
+        "name": "Wallpaper Dot 2",
+        "author": "pashapuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Gradient/wallpaper_dot_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Gradient/thumbnail/wallpaper_dot_2_thumbnail.jpg",
+        "collections": "Textures",
+        "downloadable": true,
+        "copyright": "PashaPuma Design"
+    },
+	{
         "name": "Galaxy S27 wallpaper 1",
         "author": "Samsung",
         "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/galaxy_s27_wallpaper_1.jpg",
