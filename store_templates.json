@@ -1,5 +1,23 @@
 [
   {
+    "id": "Galaxy_Z_Fold8_Closed",
+    "name": "Galaxy_Z_Fold8_Closed",
+    "author": "Hishoot3i",
+    "isPremium": false
+  },
+  {
+    "id": "Galaxy_Z_Fold8",
+    "name": "Galaxy_Z_Fold8",
+    "author": "Hishoot3i",
+    "isPremium": false
+  },
+  {
+    "id": "Pixel_11_Fold_Closed",
+    "name": "Pixel_11_Fold_Closed",
+    "author": "Hishoot3i",
+    "isPremium": false
+  },
+  {
     "id": "Pixel_11_Fold",
     "name": "Pixel_11_Fold",
     "author": "Hishoot3i",
