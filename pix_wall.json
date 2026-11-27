@@ -1,5 +1,167 @@
 [
 	{
+        "name": "Wallpaper Dot 3",
+        "author": "pashapuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Gradient/wallpaper_dot_3.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Gradient/thumbnail/wallpaper_dot_3_thumbnail.jpg",
+        "collections": "Textures",
+        "downloadable": true,
+        "copyright": "PashaPuma Design"
+    },
+	{
+        "name": "Wallpaper Dot 4",
+        "author": "pashapuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Gradient/wallpaper_dot_4.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Gradient/thumbnail/wallpaper_dot_4_thumbnail.jpg",
+        "collections": "Textures",
+        "downloadable": true,
+        "copyright": "PashaPuma Design"
+    },
+	{
+        "name": "Wallpaper Dot 5",
+        "author": "pashapuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Gradient/wallpaper_dot_5.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Gradient/thumbnail/wallpaper_dot_5_thumbnail.jpg",
+        "collections": "Textures",
+        "downloadable": true,
+        "copyright": "PashaPuma Design"
+    },
+	{
+        "name": "Wallpaper Dot 6",
+        "author": "pashapuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Gradient/wallpaper_dot_6.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Gradient/thumbnail/wallpaper_dot_6_thumbnail.jpg",
+        "collections": "Textures",
+        "downloadable": true,
+        "copyright": "PashaPuma Design"
+    },
+	{
+        "name": "Frost Blur 1",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Blur/frost_blur_1.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Blur/thumbnail/frost_blur_1_thumbnail.jpg",
+        "collections": "Blurred",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+	{
+        "name": "Frost Blur 2",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Blur/frost_blur_2.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Blur/thumbnail/frost_blur_2_thumbnail.jpg",
+        "collections": "Blurred",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+	{
+        "name": "Frost Blur 3",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Blur/frost_blur_3.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Blur/thumbnail/frost_blur_3_thumbnail.jpg",
+        "collections": "Blurred",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+	{
+        "name": "Frost Blur 4",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Blur/frost_blur_4.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Blur/thumbnail/frost_blur_4_thumbnail.jpg",
+        "collections": "Blurred",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+	{
+        "name": "Frost Blur 5",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Blur/frost_blur_5.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Blur/thumbnail/frost_blur_5_thumbnail.jpg",
+        "collections": "Blurred",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+	{
+        "name": "Frost Blur 6",
+        "author": "PashaPuma",
+        "url": "https://pashapuma.github.io/Wallpapers_app_3/Blur/frost_blur_6.jpg",
+        "thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/Blur/thumbnail/frost_blur_6_thumbnail.jpg",
+        "collections": "Blurred",
+        "downloadable": true,
+        "copyright": "PashaPuma"
+    },
+	{
+		"name": "Animals on Ice 1",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_3/animals/animals_on_ice_1.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/animals/thumbnail/animals_on_ice_1_thumbnail.jpg",
+		"collections": "Animals",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Animals on Ice 2",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_3/animals/animals_on_ice_2.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/animals/thumbnail/animals_on_ice_2_thumbnail.jpg",
+		"collections": "Animals",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Animals on Ice 3",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_3/animals/animals_on_ice_3.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/animals/thumbnail/animals_on_ice_3_thumbnail.jpg",
+		"collections": "Animals",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Animals on Ice 4",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_3/animals/animals_on_ice_4.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/animals/thumbnail/animals_on_ice_4_thumbnail.jpg",
+		"collections": "Animals",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Animals on Ice 5",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_3/animals/animals_on_ice_5.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/animals/thumbnail/animals_on_ice_5_thumbnail.jpg",
+		"collections": "Animals",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Animals on Ice 6",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_3/animals/animals_on_ice_6.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/animals/thumbnail/animals_on_ice_6_thumbnail.jpg",
+		"collections": "Animals",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Animals on Ice 7",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_3/animals/animals_on_ice_7.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/animals/thumbnail/animals_on_ice_7_thumbnail.jpg",
+		"collections": "Animals",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
+		"name": "Animals on Ice 8",
+		"author": "PashaPuma",
+		"url": "https://pashapuma.github.io/Wallpapers_app_3/animals/animals_on_ice_8.jpg",
+		"thumbnail": "https://pashapuma.github.io/Wallpapers_app_3/animals/thumbnail/animals_on_ice_8_thumbnail.jpg",
+		"collections": "Animals",
+		"downloadable": true,
+		"copyright": "PashaPuma Design"
+	},
+	{
         "name": "MagicOS 11 Wallpaper 1",
         "author": "magicOS",
         "url": "https://pashapuma.github.io/Wallpapers_app_3/OtherDevices/magicOS_11_wallpaper_1.jpg",
